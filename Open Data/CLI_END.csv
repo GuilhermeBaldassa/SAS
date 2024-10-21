@@ -1,0 +1,1839 @@
+ID_CLI,ID_END,END,CIDADE,UF,CD_MUN_IBGE
+1,1,"Adelaide  Hill, 8710",Aliança,PE,2600708
+2,2,"Adderley   Boulevard, 8494",Forquetinha,RS,4308433
+4,4,"Angrave    Road, 6008",Nova Mutum,MT,5106224
+5,5,"Beechen  Vale, 8092",Antônio Olinto,PR,4101309
+6,6,"Baylis  Drive, 208",Cristal,RS,4306056
+7,7,"Argyle  Route, 7521",Cajuri,MG,3110202
+8,8,"Billing  Vale, 1521",Triunfo,PB,2516805
+10,10,"Cockspur  Drive, 2162",Colorado,PR,4105904
+12,12,"Queen Walk, 2725",Cidreira,RS,4305454
+14,14,"Norland  Crossroad, 420",Sento Sé,BA,2930204
+15,15,"Bedford  Road, 9991",Ibirarema,SP,3519501
+16,16,"Dunstans  Avenue, 1529",Caxambu do Sul,SC,4204103
+17,17,"Cloth  Alley, 8039",Seritinga,MG,3166402
+18,18,"Aspen Lane, 545",Alvorada do Sul,PR,4100806
+19,19,"Hammersmith  Pass, 1417",Domingos Martins,ES,3201902
+20,20,"Cavell   Crossroad, 5143",Nazaré do Piauí,PI,2206704
+21,21,"Bekesbourne   Lane, 1864",Canudos do Vale,RS,4304614
+22,22,"Blackall   Grove, 7559",Natalândia,MG,3144375
+24,24,"Pine Walk, 4209",Serra Alta,SC,4217550
+25,25,"Rivervalley Route, 2944",Itacoatiara,AM,1301902
+,,,,,
+26,26,"Vine  Crossroad, 261",Vargem,SC,4219150
+27,27,"Caxton  Route, 3595",Tanhaçu,BA,2931004
+28,28,"Waldram Park  Crossroad, 5900",Ribeirão Bonito,SP,3542909
+29,29,"Sheringham   Crossroad, 8619",Nazareno,MG,3144508
+30,30,"Ben   Boulevard, 2237",Lajes,RN,2406700
+31,31,"Chatfield  Vale, 8961",Antônio Olinto,PR,4101309
+32,32,"Vincent  Route, 9003",Sabino,SP,3544608
+33,33,"Tisbury  Grove, 7886",Santana de Mangueira,PB,2513505
+34,34,"Coborn  Alley, 9413",Eunápolis,BA,2910727
+35,35,"Andsell    Crossroad, 8620",Jambeiro,SP,3524907
+36,36,"Lonsdale  Route, 1900",São José do Ouro,RS,4318606
+37,37,"Ashley Pass, 8438",São Sepé,RS,4319604
+38,38,"Howard Way, 9722",Bias Fortes,MG,3106804
+39,39,"Cingworth  Alley, 2053",Canindé de São Francisco,SE,2801207
+41,41,"York Walk, 1430",Laguna,SC,4209409
+42,42,"Cephas  Hill, 1584",Mari,PB,2509107
+43,43,"Sherlock   Walk, 9566",Queimadas,BA,2925808
+44,44,"Cloth  Vale, 9649",Marialva,PR,4114807
+46,46,"Geffrye   Pass, 7605",Araguanã,TO,1702158
+47,47,"Birkenhead   Route, 1778",Tabatinga,AM,1304062
+48,48,"Arctic   Vale, 5011",Wenceslau Braz,PR,4128500
+49,49,"Chantry   Grove, 9481",São Félix,BA,2929008
+50,50,"Lake Way, 5520",Santo Antônio do Jacinto,MG,3160306
+51,51,"Longmoore   Pass, 7981",Divinolândia de Minas,MG,3122207
+52,52,"East Vale, 1428",Itanagra,BA,2915908
+53,53,"Heritage Tunnel, 2188",Mauá,SP,3529401
+54,54,"Beaconsfield  Vale, 7826",Alpinópolis,MG,3101904
+55,55,"Bagford   Way, 6941",Acreúna,GO,5200134
+56,56,"Arctic   Rue, 78",Canitar,SP,3510153
+57,57,"Aspen Rue, 7933",Boa Vista do Buricá,RS,4302204
+58,58,"Champion  Grove, 9998",Boqueirão do Leão,RS,4302451
+59,59,"King Walk, 9061",Passos,MG,3147907
+60,60,"Shepherds  Pass, 2979",Nova Trento,SC,4211504
+61,61,"Dunstable   Tunnel, 193",Arvoredo,SC,4201653
+62,62,"Chatfield  Way, 9870",Entre Folhas,MG,3123858
+65,65,"Beaconsfield  Lane, 7345",Ipixuna,AM,1301803
+66,66,"Caldwell   Alley, 6900",Deodápolis,MS,5003454
+67,67,"Chart   Grove, 5812",Abdon Batista,SC,4200051
+68,68,"Linda   Alley, 4207",Sertanópolis,PR,4126504
+69,69,"Thrale   Rue, 5024",Paulino Neves,MA,2108058
+70,70,"Thomas More   Street, 9837",Votuporanga,SP,3557105
+71,71,"Under  Walk, 1137",Lavínia,SP,3526506
+72,72,"Angela   Lane, 2767",Coração de Jesus,MG,3118809
+73,73,"Canal  Alley, 9162",Palmeirais,PI,2207504
+74,74,"Fairbairn  Drive, 5858",Imbuia,SC,4207403
+75,75,"Cecilia  Road, 4459",Elísio Medrado,BA,2910305
+76,76,"Blackheath   Alley, 1405",Rosário do Ivaí,PR,4122651
+77,77,"Fawn Walk, 60",Itapetinga,BA,2916401
+78,78,"Betton  Vale, 826",Alcobaça,BA,2900801
+79,79,"Elgood   Vale, 1253",Rodrigues Alves,AC,1200427
+80,80,"Pine Pass, 4564",Mairi,BA,2920106
+81,81,"Shepherds  Boulevard, 1734",Travesseiro,RS,4321626
+82,82,"Waite  Hill, 6212",Santa Helena de Minas,MG,3157658
+83,83,"Sundown Walk, 7230",Serra do Ramalho,BA,2930154
+84,84,"Callcott   Street, 6343",Araripina,PE,2601102
+85,85,"Spruce Drive, 3164",Itatiaiuçu,MG,3133709
+86,86,"Blue Anchor  Rue, 9522",São Luiz,RR,1400605
+87,87,"Bliss  Road, 5176",Lajedo do Tabocal,BA,2919058
+88,88,"Chester  Boulevard, 3407",Belo Vale,MG,3106408
+89,89,"Railroad Tunnel, 6680",Moraújo,CE,2308807
+90,90,"Linda   Crossroad, 6186",Quinze de Novembro,RS,4315354
+91,91,"Westbourne Hill, 5591",Ubarana,SP,3555356
+92,92,"Duthie   Crossroad, 5229",Barra de São Francisco,ES,3200904
+93,93,"Bazely   Street, 8820",São José do Egito,PE,2613602
+94,94,"Black Swan  Boulevard, 4670",Santa Maria do Herval,RS,4316956
+95,95,"Caldwell   Hill, 9264",Mara Rosa,GO,5212808
+96,96,"Blore  Street, 8184",Araras,SP,3503307
+97,97,"Birkin   Tunnel, 6824",Rodeio,SC,4215109
+98,98,"Coalecroft  Pass, 8383",São José dos Basílios,MA,2111250
+100,100,"Chestnut Rise Route, 2959",Itutinga,MG,3134509
+101,101,"Capeners  Drive, 4210",Itapecerica,MG,3133501
+102,102,"Bales  Grove, 9307",Divinésia,MG,3121902
+103,103,"Clyde Alley, 7055",São Bonifácio,SC,4215901
+104,104,"St. Johs  Drive, 6792",Catuípe,RS,4305009
+105,105,"Timber   Street, 501",Alenquer,PA,1500404
+106,106,"Boldero   Alley, 3980",Campestre,AL,2701357
+107,107,"Commercial  Boulevard, 6403",Itajuípe,BA,2915502
+108,108,"Chatfield  Avenue, 9457",Caetanópolis,MG,3109907
+109,109,"Lake Grove, 3887",Limoeiro,PE,2608909
+110,110,"Clerkenwell Walk, 6314",Benevides,PA,1501501
+111,111,"Fair Crossroad, 6437",Vargem Grande Paulista,SP,3556453
+112,112,"Balham   Road, 7353",Santa Maria do Tocantins,TO,1718881
+113,113,"Tisbury  Avenue, 6585",São Miguel do Oeste,SC,4217204
+114,114,"Blackall   Hill, 8457",Aliança,PE,2600708
+115,115,"Dunton  Road, 8963",Riacho dos Machados,MG,3154507
+116,116,"Walnut Way, 7234",Bocaina,PI,2201804
+118,118,"Arlington  Route, 6761",Arenápolis,MT,5101308
+119,119,"Eldon  Drive, 2809",Macambira,SE,2803708
+120,120,"Pine Lane, 2516",Candói,PR,4104428
+122,122,"Cobden  Walk, 4403",Novo Lino,AL,2705606
+123,123,"Fairfield  Tunnel, 8291",Alegria,RS,4300455
+124,124,"Maple Vale, 2368",Gentio do Ouro,BA,2911303
+125,125,"Westcott  Tunnel, 9965",Orleans,SC,4211702
+126,126,"Emily  Lane, 6358",Garibaldi,RS,4308607
+127,127,"Lincoln Drive, 9817",Socorro do Piauí,PI,2210904
+128,128,"Epworth  Crossroad, 3025",Prado,BA,2925501
+129,129,"Bendall   Drive, 3475",Gandu,BA,2911204
+130,130,"Carltoun   Alley, 7723",Sarzedo,MG,3165537
+131,131,"Hickory   Avenue, 4676",Bento Gonçalves,RS,4302105
+132,132,"Durnford  Avenue, 1333",Boquim,SE,2800670
+133,133,"Besson  Way, 1695",Itatuba,PB,2507200
+134,134,"Andsell    Lane, 6131",Jacupiranga,SP,3524600
+135,135,"Spruce Grove, 6369",Boa Hora,PI,2201770
+136,136,"Mariner   Grove, 4341",Serra Alta,SC,4217550
+138,138,"College  Grove, 5121",São Sebastião da Bela Vista,MG,3164407
+139,139,"Sheringham   Crossroad, 6974",Corguinho,MS,5003108
+140,140,"Blake  Lane, 9625",Periquito,MG,3149952
+141,141,"Abbotswell  Route, 1056",Bebedouro,SP,3506102
+142,142,"Sherwood  Walk, 6472",Ferros,MG,3125903
+143,143,"Sherwood  Route, 9248",Tarauacá,AC,1200609
+144,144,"Vintners  Drive, 4268",Quixelô,CE,2311355
+145,145,"Elia   Drive, 9061",Juara,MT,5105101
+146,146,"Maple Pass, 6485",Aracitaba,MG,3103306
+147,147,"Adderley   Alley, 8111",Paraíso das Águas,MS,5006275
+148,148,"Thorndike   Avenue, 8898",Santo Afonso,MT,5107263
+149,149,"Parkfields Crossroad, 4710",Novo Santo Antônio,MT,5106315
+150,150,"Garfield Route, 9575",Apucarana,PR,4101408
+152,152,"Comet House  Walk, 2856",Pejuçara,RS,4314308
+153,153,"Zealand Hill, 7182",Cruzeta,RN,2403004
+154,154,"Queensberry  Walk, 1051",Biritiba Mirim,SP,3506607
+155,155,"Dyott   Boulevard, 4786",São Gonçalo do Gurguéia,PI,2209757
+157,157,"Birkin   Avenue, 6422",Ourolândia,BA,2923357
+158,158,"Tisbury  Rue, 1616",Aquiraz,CE,2301000
+159,159,"Oxford Street, 9795",Magda,SP,3528304
+160,160,"Hickory Lane Vale, 5022",Bonito,BA,2904050
+162,162,"Caroline  Rue, 9645",Sete de Setembro,RS,4320578
+163,163,"Empress  Route, 8646",Santa Cruz do Rio Pardo,SP,3546405
+164,164,"Mariner  Route, 4588",Ipanema,MG,3131208
+165,165,"Elia   Rue, 947",Barra do Rocha,BA,2903102
+166,166,"Elba  Lane, 932",Coronel Murta,MG,3119500
+167,167,"Maple Alley, 749",Carmolândia,TO,1703883
+168,168,"Calshot   Crossroad, 9333",Igreja Nova,AL,2703205
+169,169,"Gathorne   Walk, 4649",Jateí,MS,5005103
+170,170,"Vincent  Lane, 5672",Tapiramutá,BA,2931301
+171,171,"Blanchard  Tunnel, 2252",Nossa Senhora do Livramento,MT,5106109
+173,173,"Parkfield  Alley, 169",Córrego do Ouro,GO,5205703
+174,174,"Wadham  Road, 8367",Guarujá do Sul,SC,4206603
+175,175,"Spruce Crossroad, 8499",Nova Olímpia,PR,4117206
+176,176,"Abbots   Hill, 4827",Abaíra,BA,2900108
+177,177,"Adams  Vale, 1134",Mariano Moro,RS,4312005
+178,178,"Bermondsey    Vale, 2362",Santa Isabel do Ivaí,PR,4123709
+179,179,"Under  Walk, 1328",Ibema,PR,4109757
+180,180,"Durweston   Lane, 8361",Novo Gama,GO,5215231
+181,181,"Angela   Drive, 9895",Berilo,MG,3106507
+182,182,"Blean   Boulevard, 7630",São Bentinho,PB,2513927
+183,183,"Andsell    Drive, 5954",Roque Gonzales,RS,4316303
+185,185,"Cobden  Rue, 3518",Nova Porteirinha,MG,3145059
+186,186,"Carlton  Walk, 3572",Milton Brandão,PI,2206357
+187,187,"Bendall   Boulevard, 9218",Pedreira,SP,3537107
+188,188,"Caedmon  Vale, 9780",Nova Rosalândia,TO,1715002
+189,189,"Canon Pass, 9657",Lagoa de São Francisco,PI,2205573
+190,190,"Dunsley  Pass, 5047",Manga,MG,3139300
+191,191,"Arundel   Crossroad, 3637",Marinópolis,SP,3529104
+192,192,"Sherlock   Rue, 1820",Cruzeiro do Sul,AC,1200203
+193,193,"Pine Street, 2416",Coromandel,MG,3119302
+194,194,"Charterhouse  Crossroad, 4818",Porto Mauá,RS,4315057
+195,195,"Jackson Tunnel, 9727",Sítio Novo,MA,2111805
+196,196,"Unwin  Walk, 8509",Bandeirantes,PR,4102406
+197,197,"Antrobus   Vale, 4719",Rafael Jambeiro,BA,2925956
+198,198,"Blackwall  Pass, 334",Barra de São Miguel,AL,2700607
+199,199,"Tisbury  Pass, 6295",Nova Olinda do Maranhão,MA,2107357
+200,200,"Tiptree   Road, 188",Itaipulândia,PR,4110953
+201,201,"Sheffield Pass, 337",Santa Cruz,PE,2612455
+202,202,"Charterhouse  Pass, 6442",Paragominas,PA,1505502
+203,203,"Virginia Route, 1107",Primavera,PE,2611408
+204,204,"Duthie   Rue, 5626",Santa Helena,PB,2513307
+205,205,"Bellenden   Crossroad, 542",Ribeirão Preto,SP,3543402
+206,206,"Cephas  Pass, 8304",Mar Vermelho,AL,2704906
+207,207,"Cardinal Grove, 2303",Santo Inácio,PR,4124509
+208,208,"Catherine  Crossroad, 8612",Tomé-Açu,PA,1508001
+210,210,"Cave   Route, 3991",Lobato,PR,4113601
+211,211,"Westcott  Way, 7921",Itapiranga,AM,1302009
+212,212,"Gautrey  Way, 2914",São Miguel,RN,2412500
+213,213,"Clissold  Grove, 9469",Camocim,CE,2302602
+214,214,"Maple Rue, 7832",Goianira,GO,5208806
+215,215,"Hickory Lane Rue, 6422",Caçu,GO,5204300
+216,216,"Bacon  Vale, 378",Teresópolis,RJ,3305802
+217,217,"Anns  Way, 3672",Autazes,AM,1300300
+218,218,"Bigland  Rue, 4880",São José da Boa Vista,PR,4125407
+219,219,"Balfour    Route, 111",Guarapuava,PR,4109401
+220,220,"Kilner   Avenue, 2648",Uniflor,PR,4128302
+221,221,"Becher  Alley, 296",Ubajara,CE,2313609
+222,222,"Queen Crossroad, 3603",Mendes,RJ,3302809
+223,223,"Archery  Street, 9321",Espigão D'Oeste,RO,1100098
+224,224,"Chapel  Boulevard, 8496",Sabinópolis,MG,3156809
+225,225,"Enford   Grove, 670",Pinhão,SE,2805208
+226,226,"St. Pauls  Grove, 1684",Fortaleza dos Valos,RS,4308458
+227,227,"Collins  Route, 7079",São Valério do Sul,RS,4319737
+228,228,"Glenwood Lane, 6018",Itaju,SP,3522000
+229,229,"Rosewood Grove, 8743",Bela Vista de Minas,MG,3106002
+230,230,"Caslon   Tunnel, 7532",Cocos,BA,2908101
+231,231,"Apsley    Vale, 2572",Itaguaru,GO,5210604
+232,232,"Kimberley  Hill, 457",Miraí,MG,3142205
+233,233,"Argyle  Walk, 4551",Araripina,PE,2601102
+234,234,"Battis   Walk, 6592",Santa Rita de Cássia,BA,2928406
+235,235,"Sheraton   Walk, 5942",Doutor Pedrinho,SC,4205159
+236,236,"Cardinal Rue, 5774",Estrela,RS,4307807
+237,237,"Betton  Hill, 382",Alagoinha,PE,2600609
+238,238,"Antrobus   Street, 8362",Amparo,SP,3501905
+239,239,"Beaumont  Rue, 2878",Campanha,MG,3110905
+240,240,"Catherine  Way, 6608",Turvolândia,MG,3169802
+242,242,"Badric  Street, 7090",Ariranha,SP,3503703
+243,243,"Bletchley   Crossroad, 3546",Mucugê,BA,2921906
+244,244,"Bury  Way, 6742",São Pedro do Iguaçu,PR,4125753
+245,245,"Ellerman   Tunnel, 9331",Guarujá do Sul,SC,4206603
+246,246,"Lake Rue, 1397",Córrego Novo,MG,3120003
+247,247,"Kinglake  Rue, 8962",São Sebastião do Passé,BA,2929503
+248,248,"Sundown Grove, 7160",Mateus Leme,MG,3140704
+250,250,"Empress  Street, 5458",Itajuípe,BA,2915502
+252,252,"Baylis  Vale, 7591",São Bento do Norte,RN,2411601
+253,253,"Queensberry  Route, 7697",Amarante do Maranhão,MA,2100600
+254,254,"Blackheath   Tunnel, 2170",Guaraçaí,SP,3517802
+255,255,"Chatfield  Pass, 1208",Cedro de São João,SE,2801603
+256,256,"Boldero   Alley, 401",Itapemirim,ES,3202801
+257,257,"Thoresby   Lane, 3124",Raul Soares,MG,3154002
+258,258,"Duthie   Hill, 5032",Lago dos Rodrigues,MA,2105948
+259,259,"Viscount   Walk, 654",Santarém,PA,1506807
+260,260,"Bacon  Vale, 1362",Guaraciama,MG,3128253
+261,261,"Thrale   Road, 2618",Augusto Pestana,RS,4301503
+262,262,"Balfe   Grove, 3118",Felixlândia,MG,3125705
+263,263,"Balham   Way, 3270",Aliança,PE,2600708
+265,265,"Ben   Drive, 2005",São Marcos,RS,4319000
+266,266,"Dyott   Drive, 9480",Carmópolis de Minas,MG,3114501
+267,267,"St. Jamess  Boulevard, 4316",Amarante do Maranhão,MA,2100600
+268,268,"Bendall   Pass, 2123",Brejetuba,ES,3201159
+270,270,"Bazely   Alley, 3099",Pires do Rio,GO,5217401
+271,271,"Thoresby   Lane, 1814",Palmácia,CE,2310100
+272,272,"Castile  Grove, 7993",Ijuí,RS,4310207
+273,273,"Beaumont  Rue, 1011",Francisco Dantas,RN,2403905
+274,274,"Ashley Lane, 9368",Siriri,SE,2807204
+275,275,"Caldwell   Rue, 291",Dois Riachos,AL,2702504
+276,276,"Betton  Crossroad, 8256",Nova Esperança do Piriá,PA,1504950
+278,278,"Lincoln Grove, 7925",Feijó,AC,1200302
+279,279,"Bennett  Street, 724",Santa Cecília do Sul,RS,4316733
+280,280,"Cliff  Drive, 2101",Monte Santo do Tocantins,TO,1713700
+282,282,"Fairholt   Walk, 9430",Campo Verde,MT,5102678
+283,283,"Linda   Road, 4538",Cruz Alta,RS,4306106
+284,284,"Clere  Walk, 8270",Nhamundá,AM,1303007
+285,285,"Bliss  Rue, 9729",Mara Rosa,GO,5212808
+286,286,"Castile  Walk, 513",Alpestre,RS,4300505
+287,287,"Cavendish Avenue, 3490",Uauá,BA,2932002
+288,288,"Callcott   Rue, 1182",Bias Fortes,MG,3106804
+289,289,"Maple Boulevard, 4",São José de Ubá,RJ,3305133
+290,290,"Arbutus   Lane, 9468",Extremoz,RN,2403608
+291,291,"Enderby   Street, 6827",Piquerobi,SP,3538303
+292,292,"Emily  Lane, 5372",São José do Campestre,RN,2412302
+293,293,"College  Hill, 7018",Pedra Bonita,MG,3148756
+295,295,"Parkfield  Crossroad, 3307",Nova Veneza,SC,4211603
+296,296,"Bliss  Street, 489",São Vicente Ferrer,MA,2111706
+297,297,"Bekesbourne   Avenue, 8866",Santa Tereza do Oeste,PR,4124020
+298,298,"Waldram Park  Alley, 5622",Lago do Junco,MA,2105807
+299,299,"Marischal  Crossroad, 3372",Indiaroba,SE,2802809
+300,300,"Tilloch   Pass, 6929",Paraná,RN,2408607
+301,301,"Epworth  Way, 4987",Francisco Dumont,MG,3126604
+302,302,"West Grove, 4865",Vitória Brasil,SP,3556958
+303,303,"Apostle  Vale, 6845",Altair,SP,3500907
+304,304,"Becher  Grove, 6818",Santa Rosa,RS,4317202
+306,306,"Linden Pass, 3857",Guarapari,ES,3202405
+307,307,"Ashley Road, 701",Guararema,SP,3518305
+308,308,"Eaglet  Pass, 5851",Ipirá,BA,2914000
+309,309,"Virgil   Rue, 9667",Três Barras,SC,4218301
+310,310,"Aspen Rue, 563",Floresta Azul,BA,2911006
+311,311,"Collins  Lane, 4772",Aripuanã,MT,5101407
+313,313,"West Drive, 28",Nova Candelária,RS,4313011
+314,314,"Camberwell  Rue, 4282",Vargem Alegre,MG,3170578
+315,315,"Durnford  Alley, 1082",Alto Alegre,SP,3501103
+316,316,"Edwin   Rue, 6698",Itaúna do Sul,PR,4111308
+317,317,"Arlington  Way, 8715",Boracéia,SP,3507308
+318,318,"Black Swan  Pass, 2614",Santa Maria do Tocantins,TO,1718881
+319,319,"Yorkshire  Alley, 479",Araputanga,MT,5101258
+320,320,"Collins  Avenue, 4246",Novo Airão,AM,1303205
+323,323,"Buttonwood Avenue, 208",Lajedão,BA,2918902
+324,324,"Lexington Alley, 4419",Santo Antônio da Platina,PR,4124103
+325,325,"Bective  Avenue, 8502",Araxá,MG,3104007
+326,326,"King Edward  Vale, 5045",Ibitinga,SP,3519600
+327,327,"Coalecroft  Route, 1441",Canguaretama,RN,2402204
+328,328,"Collins  Crossroad, 4428",Pacujá,CE,2309904
+329,329,"Bennett  Street, 1182",Boqueirão do Piauí,PI,2201945
+330,330,"Black Friars   Way, 1413",Marliéria,MG,3140308
+332,332,"Dunstans  Hill, 258",Rochedo de Minas,MG,3156205
+333,333,"Rosewood Route, 8940",Planaltina,GO,5217609
+334,334,"Queen Way, 6588",Serra Alta,SC,4217550
+335,335,"King Pass, 3573",Juazeiro do Norte,CE,2307304
+336,336,"Chancellor  Alley, 7624",Amaturá,AM,1300060
+337,337,"Biggerstaff   Rue, 116",Barra de São Miguel,AL,2700607
+338,338,"Cecilia  Drive, 1277",Sangão,SC,4215455
+339,339,"Carnegie   Grove, 1433",Jussiape,BA,2918605
+340,340,"Thomas  Alley, 3355",Conceição do Coité,BA,2908408
+341,341,"Hickory Lane Rue, 1114",Sítio d'Abadia,GO,5220702
+342,342,"Fair Rue, 9728",Bom Jesus,PB,2502201
+343,343,"Chesterfield  Walk, 1511",Santa Amélia,PR,4123105
+344,344,"Abbey   Vale, 238",Progresso,RS,4315156
+345,345,"Thorndike   Vale, 8845",Jambeiro,SP,3524907
+347,347,"Hickory Lane Street, 2775",Tupirama,TO,1721257
+348,348,"Carltoun   Boulevard, 2788",Caranaíba,MG,3113107
+349,349,"Howard Grove, 1922",Santa Lúcia,SP,3546900
+350,350,"Thorndike   Street, 5342",Curuá,PA,1502855
+351,351,"Empress  Walk, 5478",Tupãssi,PR,4127957
+352,352,"Elba  Route, 5363",Conselheiro Pena,MG,3118403
+353,353,"Kimberley  Vale, 4536",Juscimeira,MT,5105200
+354,354,"Jackson Grove, 9779",Igarapé do Meio,MA,2105153
+355,355,"Cliffords  Avenue, 8338",Nova Brasilândia D'Oeste,RO,1100148
+356,356,"Blenkarne  Grove, 8834",Bom Jardim,MA,2102002
+357,357,"Western   Alley, 875",Salgado de São Félix,PB,2513109
+358,358,"Bective  Walk, 9589",João Dourado,BA,2918357
+359,359,"Magnolia Lane, 9597",Gramado,RS,4309100
+360,360,"Camdenhurst   Route, 4768",Guamaré,RN,2404507
+361,361,"Norland  Alley, 2521",Aurora,CE,2301703
+362,362,"Chestnut  Route, 2099",Nova Módica,MG,3144904
+363,363,"Cliffords  Hill, 1849",Córrego Danta,MG,3119807
+364,364,"Rail Way, 7474",Indiaporã,SP,3520707
+365,365,"Chester  Pass, 2094",Paranhos,MS,5006358
+366,366,"Ely  Pass, 8177",Caldas Brandão,PB,2503803
+367,367,"Berry  Alley, 3254",Extremoz,RN,2403608
+368,368,"Carpenter Grove, 250",Itaituba,PA,1503606
+369,369,"Longleigh   Way, 592",Lagarto,SE,2803500
+370,370,"Cheltenham  Crossroad, 7009",Tangará,SC,4217907
+371,371,"Cadogan  Tunnel, 5603",Alcântara,MA,2100204
+372,372,"Baltic  Grove, 8645",Rancho Queimado,SC,4214300
+373,373,"Tilloch   Tunnel, 2616",São Caetano do Sul,SP,3548807
+374,374,"West Vale, 9050",Jequiá da Praia,AL,2703759
+375,375,"Bethwin  Street, 4014",Ribeira do Amparo,BA,2926509
+376,376,"East Rue, 9892",Áurea,RS,4301552
+377,377,"Blore  Pass, 4207",Monte Alegre dos Campos,RS,4312377
+378,378,"Westcott  Street, 4793",Alpinópolis,MG,3101904
+379,379,"Geffrye   Hill, 6850",Jundiá,AL,2703908
+380,380,"Abbotswell  Street, 2405",Nova Prata,RS,4313300
+381,381,"Chester  Drive, 8621",Palmeirina,PE,2610103
+382,382,"Canon Crossroad, 2690",Campina das Missões,RS,4303707
+383,383,"Belmore  Street, 3369",Nicolau Vergueiro,RS,4312674
+384,384,"Wadham  Crossroad, 5801",Silveiras,SP,3552007
+385,385,"Ensign   Road, 881",Paripiranga,BA,2923803
+386,386,"Railroad Road, 3464",Cotiporã,RS,4305959
+387,387,"Chamberlain  Alley, 9252",Capitão Andrade,MG,3112653
+388,388,"Biggerstaff   Way, 2059",Delfinópolis,MG,3121209
+389,389,"Aberavon  Rue, 3301",São José do Inhacorá,RS,4318499
+390,390,"Lincoln Rue, 1090",Itaituba,PA,1503606
+391,391,"Gatonby   Road, 6176",Divisa Nova,MG,3122405
+392,392,"Apothecary   Route, 5574",Colíder,MT,5103205
+393,393,"Falconberg   Drive, 1998",Iracemápolis,SP,3521408
+394,394,"Longmoore   Grove, 7790",Pavão,MG,3148509
+395,395,"Erindale Rue, 7701",Crixás do Tocantins,TO,1706258
+396,396,"Hickory   Vale, 4828",Heitoraí,GO,5209606
+397,397,"Abbey   Walk, 1501",São Carlos,SC,4216008
+398,398,"Castile  Route, 8783",Porto Estrela,MT,5106851
+399,399,"Durham Avenue, 372",Ivaiporã,PR,4111506
+400,400,"Calverley  Route, 2531",Loanda,PR,4113502
+401,401,"Yorkshire  Road, 1241",Igrejinha,RS,4310108
+402,402,"Chicksand  Walk, 6979",Abadia dos Dourados,MG,3100104
+403,403,"Chantry   Rue, 9536",Acreúna,GO,5200134
+404,404,"Arline    Lane, 1601",Delmiro Gouveia,AL,2702405
+405,405,"Thurloe   Drive, 5818",Carnaubal,CE,2303402
+406,406,"Cadogan  Route, 9020",Campos Novos Paulista,SP,3509809
+407,407,"Calshot   Way, 2916",Boa Esperança,PR,4103008
+408,408,"Apsley    Street, 6154",Tartarugalzinho,AP,1600709
+409,409,"Chart   Street, 9741",Parnamirim,RN,2403251
+410,410,"Belfort  Grove, 6574",Quilombo,SC,4214201
+411,411,"Hickory   Hill, 5344",Turilândia,MA,2112456
+412,412,"Hammersmith  Road, 6586",Tanabi,SP,3553401
+414,414,"Ampton  Street, 4086",Boa Esperança,MG,3107109
+415,415,"Berriman  Drive, 8985",Chapadão do Lageado,SC,4204194
+416,416,"Andsell    Grove, 794",Touros,RN,2414407
+417,417,"York Walk, 9319",Mucambo,CE,2309003
+419,419,"Westcott  Tunnel, 4341",São José do Barreiro,SP,3549607
+420,420,"Longman   Grove, 6775",São João do Oriente,MG,3162609
+421,421,"Apostle  Street, 4839",Catarina,CE,2303600
+422,422,"Blue Anchor  Hill, 415",São Domingos do Araguaia,PA,1507151
+423,423,"Parkfield  Pass, 6330",Maringá,PR,4115200
+424,424,"Geffrye   Boulevard, 1399",Peruíbe,SP,3537602
+425,425,"Abbots   Tunnel, 9130",Bela Vista de Minas,MG,3106002
+427,427,"Cecilia  Grove, 7702",Alagoinha,PB,2500502
+428,428,"Victoria Rise Boulevard, 9314",Franca,SP,3516200
+429,429,"Battis   Drive, 3006",Indianópolis,MG,3130705
+430,430,"Clifton  Tunnel, 367",Parnaguá,PI,2207603
+431,431,"Collingwood  Route, 9137",Eunápolis,BA,2910727
+432,432,"Cheltenham  Street, 5698",São Vicente de Minas,MG,3165305
+433,433,"Bermondsey    Boulevard, 9687",Caiçara,PB,2503605
+434,434,"Collent   Rue, 8353",Assis Brasil,AC,1200054
+435,435,"Bel   Alley, 7257",Jauru,MT,5105002
+436,436,"Birkbeck  Crossroad, 1377",Pedreira,SP,3537107
+438,438,"Gathorne   Road, 7356",Marau,RS,4311809
+439,439,"Beaconsfield  Hill, 1854",Pongaí,SP,3540101
+440,440,"Cephas  Vale, 9891",Cosmópolis,SP,3512803
+441,441,"Calverley  Walk, 9765",Jequitaí,MG,3135605
+442,442,"Waldram Park  Vale, 949",Ataléia,MG,3104700
+443,443,"Chestnut Rise Walk, 9473",Alagoinha,PB,2500502
+444,444,"English   Way, 3051",Nova Olinda do Norte,AM,1303106
+445,445,"Calvin   Drive, 2629",Fronteira dos Vales,MG,3127057
+446,446,"Yorkshire  Way, 6244",Douradina,MS,5003504
+448,448,"Unwin  Pass, 6969",Registro,SP,3542602
+449,449,"Camera  Walk, 5599",General Sampaio,CE,2304608
+450,450,"Thomas  Avenue, 2600",Fronteira dos Vales,MG,3127057
+451,451,"Lake Tunnel, 6956",São Sebastião do Anta,MG,3164472
+452,452,"Lake Tunnel, 4968",Estrela d'Oeste,SP,3515202
+453,453,"Hamilton  Rue, 4414",Anapurus,MA,2100808
+454,454,"Addison  Alley, 1441",Bonfim,RR,1400159
+455,455,"Caslon   Pass, 7901",Imbaú,PR,4110078
+456,456,"Monroe Avenue, 4890",Serrania,MG,3166907
+457,457,"Fairholt   Rue, 1181",Paraipaba,CE,2310258
+458,458,"English   Avenue, 8693",São João Nepomuceno,MG,3162906
+459,459,"Elizabeth  Walk, 7681",Maravilha,AL,2704609
+460,460,"Cheltenham  Pass, 5603",São Bento Abade,MG,3160801
+461,461,"Woodland Road, 714",Poxoréu,MT,5107008
+463,463,"King Rue, 4926",Piraí do Norte,BA,2924678
+464,464,"Cavaye  Rue, 692",Bragança,PA,1501709
+465,465,"Cato   Lane, 6121",Juazeiro do Piauí,PI,2205516
+466,466,"Ellerslie Road, 9473",Sooretama,ES,3205010
+467,467,"Durweston   Street, 8278",Iguape,SP,3520301
+468,468,"Woodland Hill, 3184",Maracás,BA,2920502
+469,469,"Duthie   Tunnel, 1945",Campo Verde,MT,5102678
+470,470,"Castlereagh   Walk, 5233",Itanhangá,MT,5104542
+471,471,"Chelsea Manor  Tunnel, 515",Paranavaí,PR,4118402
+472,472,"Clerkenwell Walk, 6998",Japonvar,MG,3135357
+475,475,"Camden  Route, 8938",Presidente Alves,SP,3541109
+476,476,"Arctic   Rue, 7818",Mato Queimado,RS,4312179
+477,477,"Castile  Grove, 7776",Mucugê,BA,2921906
+478,478,"Caslon   Tunnel, 715",Itumirim,MG,3134301
+479,479,"Arctic   Avenue, 5430",Porto Seguro,BA,2925303
+480,480,"Caxton  Crossroad, 7141",Piedade de Caratinga,MG,3150158
+481,481,"Chamberlain  Way, 8448",Alpinópolis,MG,3101904
+482,482,"Western   Alley, 7849",Farol,PR,4107553
+483,483,"Thorndike   Street, 1304",Parobé,RS,4314050
+484,484,"Church Road, 8961",Carmo do Rio Verde,GO,5205000
+485,485,"Cavaye  Grove, 3733",Altamira do Maranhão,MA,2100402
+486,486,"Epworth  Walk, 1902",Martinópolis,SP,3529203
+487,487,"Fieldstone Way, 9167",Balneário Piçarras,SC,4212809
+488,488,"Tilson  Way, 9696",Flores,PE,2605608
+489,489,"Howard Grove, 4",Itapiranga,AM,1302009
+490,490,"Rosewood Drive, 1969",Aracati,CE,2301109
+491,491,"Howard Boulevard, 4713",Alto Paraíso de Goiás,GO,5200605
+492,492,"Bermondsey    Hill, 6743",Populina,SP,3540408
+494,494,"English   Walk, 1804",Belo Horizonte,MG,3106200
+495,495,"Chambers  Drive, 4805",Itabaianinha,SE,2803005
+496,496,"Cavaye  Route, 4443",Santo Ângelo,RS,4317509
+497,497,"Dutton   Street, 5221",São Jerônimo da Serra,PR,4124707
+498,498,"Blackpool  Rue, 5021",Medeiros Neto,BA,2921104
+499,499,"Cloth  Road, 9524",São João da Baliza,RR,1400506
+500,500,"Blendon    Road, 5559",Nova Lacerda,MT,5106182
+501,501,"Chancellor  Vale, 4540",Santa Cruz do Rio Pardo,SP,3546405
+502,502,"Comet House  Walk, 6412",Aroeiras,PB,2501302
+503,503,"Buttonwood Avenue, 4880",Mirangaba,BA,2921401
+504,504,"Blue Anchor  Rue, 3210",Pindobaçu,BA,2924603
+506,506,"Howard Vale, 9458",Betim,MG,3106705
+508,508,"Castle Hill, 8494",Alcantil,PB,2500536
+509,509,"Beaumont  Walk, 4623",Araguanã,TO,1702158
+511,511,"Calshot   Hill, 7691",Angical,BA,2901403
+512,512,"Maple Boulevard, 7142",Santa Rosa do Purus,AC,1200435
+513,513,"Norfolk  Drive, 8177",Mato Castelhano,RS,4312138
+514,514,"Kinglake  Boulevard, 4527",Sentinela do Sul,RS,4320354
+515,515,"Woodland Alley, 729",Catalão,GO,5205109
+516,516,"Viscount   Lane, 9446",Novo Barreiro,RS,4313490
+517,517,"Cable    Road, 1140",Equador,RN,2403400
+518,518,"Becklow  Tunnel, 4119",Cutias,AP,1600212
+519,519,"Tisbury  Drive, 3374",Amapá,AP,1600105
+521,521,"King Grove, 8490",Pajeú do Piauí,PI,2207355
+522,522,"Balfe   Route, 7596",Manacapuru,AM,1302504
+523,523,"Pine Road, 4068",Salto do Céu,MT,5107750
+525,525,"Carlton  Alley, 7508",Jari,RS,4311130
+526,526,"Gautrey  Alley, 7909",Campo do Brito,SE,2801009
+527,527,"Sundown Hill, 3883",Francisco Beltrão,PR,4108403
+528,528,"King Rue, 3651",Itirapuã,SP,3523701
+529,529,"Rosewood Boulevard, 3735",Lindóia,SP,3527009
+531,531,"Sherwood  Crossroad, 3158",Piritiba,BA,2924801
+532,532,"Kingly  Boulevard, 5714",Tanque Novo,BA,2931053
+533,533,"Abbotswell  Pass, 1802",Iguatama,MG,3130309
+535,535,"Queensberry  Vale, 6605",Doutor Ricardo,RS,4306759
+536,536,"Clavell   Drive, 930",Pocinhos,PB,2512002
+537,537,"Shepherds  Hill, 9502",São Miguel do Araguaia,GO,5220207
+538,538,"Kinglake  Crossroad, 9287",São João da Varjota,PI,2209955
+539,539,"Blake  Crossroad, 6924",São Vendelino,RS,4319752
+540,540,"Bacton   Rue, 9175",Tarabai,SP,3553906
+541,541,"Littlebury  Pass, 229",Manoel Viana,RS,4311759
+542,542,"Babmaes    Tunnel, 7021",Nova Redenção,BA,2922854
+543,543,"Baylis  Way, 6317",Tremembé,SP,3554805
+544,544,"Bagford   Road, 4474",Mimoso do Sul,ES,3203403
+545,545,"Ashley Lane, 9662",Cosmópolis,SP,3512803
+546,546,"Thorndike   Route, 5088",Novo Horizonte do Sul,MS,5006259
+548,548,"Bedford  Street, 2820",Itamarati,AM,1301951
+549,549,"Zealand Route, 4406",Salgadinho,PB,2513000
+550,550,"Bennett  Pass, 5881",Governador Newton Bello,MA,2104651
+551,551,"Charnwood   Drive, 3284",Poloni,SP,3539905
+552,552,"Empress  Rue, 812",Cajuru,SP,3509403
+553,553,"Bermondsey    Avenue, 7429",Parauapebas,PA,1505536
+554,554,"Bliss  Crossroad, 4505",Tuparetama,PE,2615904
+555,555,"Canon Hill, 9820",Auriflama,SP,3504206
+556,556,"Emily  Tunnel, 173",Araguacema,TO,1701903
+557,557,"Spruce Alley, 3677",Uibaí,BA,2932408
+558,558,"Bliss  Crossroad, 3744",São Pedro da Serra,RS,4319356
+560,560,"Bellenden  Vale, 4868",Teresópolis,RJ,3305802
+561,561,"Fieldstone Street, 6777",Pontes e Lacerda,MT,5106752
+562,562,"Walnut Way, 1027",Pérola d'Oeste,PR,4119004
+563,563,"Caxton  Avenue, 8498",Seropédica,RJ,3305554
+564,564,"Rivervalley Vale, 7754",Salgadinho,PE,2612109
+565,565,"Carnegie   Road, 9499",General Sampaio,CE,2304608
+566,566,"Virginia Lane, 290",Nova Olinda,CE,2309201
+568,568,"Blean   Road, 8039",Utinga,BA,2932804
+569,569,"Bigland  Avenue, 7641",Atalaia do Norte,AM,1300201
+570,570,"Timothy  Street, 7652",Santo Antônio do Planalto,RS,4317756
+571,571,"Bermondsey    Lane, 3903",Valparaíso de Goiás,GO,5221858
+572,572,"Fairfield  Street, 284",Lindóia,SP,3527009
+573,573,"Apothecary   Walk, 323",São Jerônimo,RS,4318408
+574,574,"Linda Lane Rue, 8083",Calçado,PE,2603306
+576,576,"Waldram Park  Vale, 9227",Cabaceiras,PB,2503100
+577,577,"Hickory Lane Rue, 2094",Roteiro,AL,2707800
+578,578,"Colombo   Avenue, 8800",Mendes Pimentel,MG,3141504
+579,579,"Coal Wharf  Street, 1611",Chácara,MG,3115904
+580,580,"Edwin   Drive, 7414",Laguna,SC,4209409
+581,581,"Kimberley  Tunnel, 5739",Morros,MA,2107100
+582,582,"Virgil   Hill, 7930",Angico,TO,1701051
+583,583,"St. Johs  Drive, 5598",Mortugaba,BA,2921807
+584,584,"Oxford Walk, 8760",Porto Firme,MG,3152303
+586,586,"Colombo   Hill, 9011",Maripá de Minas,MG,3140209
+587,587,"Battersea   Boulevard, 5812",São Pedro do Butiá,RS,4319372
+588,588,"Ensign   Road, 5389",Pontão,RS,4314779
+589,589,"Blendon    Street, 44",Santo Hipólito,MG,3160603
+590,590,"Carlton  Lane, 1914",Itapiranga,AM,1302009
+591,591,"Canal  Lane, 2066",Santa Cecília,SC,4215505
+592,592,"Chester      Avenue, 6042",São Bernardo,MA,2110609
+594,594,"Becher  Way, 3677",Acreúna,GO,5200134
+595,595,"Collins  Alley, 2570",Coelho Neto,MA,2103406
+596,596,"St. Jamess  Way, 1514",Palmeiras,BA,2923506
+597,597,"Baltic  Alley, 1438",Santa Maria,RS,4316907
+598,598,"Wadham  Hill, 6068",São José do Calçado,ES,3204807
+599,599,"Beaumont  Crossroad, 3990",Serrinha,BA,2930501
+602,602,"Marina  Grove, 8883",Irará,BA,2914505
+603,603,"Ely  Boulevard, 5363",Porto Firme,MG,3152303
+604,604,"Tilloch   Route, 4370",Doverlândia,GO,5207253
+605,605,"Cheltenham  Vale, 6940",Aramina,SP,3503000
+606,606,"Bede  Crossroad, 6294",Coqueiro Baixo,RS,4305835
+607,607,"Sundown Walk, 9252",Flora Rica,SP,3515806
+608,608,"Maple Street, 4685",Paraíso do Norte,PR,4118006
+609,609,"Abbey   Drive, 2283",Santa Fé do Araguaia,TO,1718865
+610,610,"Berry  Lane, 3268",Alto Alegre dos Parecis,RO,1100379
+611,611,"Caedmon  Pass, 4197",Dom Eliseu,PA,1502939
+612,612,"Bayberry Route, 1457",Paraibano,MA,2107704
+613,613,"Bolingbroke  Avenue, 6027",Magda,SP,3528304
+614,614,"Waldram Park  Route, 9609",Cipó,BA,2907905
+615,615,"Edwin   Avenue, 1601",Itapororoca,PB,2507101
+616,616,"Blackheath  Grove, 3682",Jaguari,RS,4311106
+617,617,"Queen Lane, 4038",Birigui,SP,3506508
+618,618,"Ashley Boulevard, 8654",Itatim,BA,2916856
+619,619,"South Way, 6263",Penedo,AL,2706703
+620,620,"West Road, 6392",Ipeúna,SP,3521101
+621,621,"Cecilia  Lane, 4766",Mário Campos,MG,3140159
+622,622,"Chantry   Grove, 3578",São Gonçalo do Gurguéia,PI,2209757
+624,624,"Victoria  Hill, 457",Mateus Leme,MG,3140704
+625,625,"Church Drive, 7758",Russas,CE,2311801
+626,626,"Hamilton  Rue, 3836",Pranchita,PR,4120358
+627,627,"Bolton  Way, 4388",Jaguaribara,CE,2306801
+628,628,"Marischal  Walk, 6889",Mocajuba,PA,1504604
+629,629,"Magnolia Road, 2760",Jataizinho,PR,4112702
+630,630,"Cingworth  Crossroad, 6676",Barretos,SP,3505500
+631,631,"Virgil   Route, 3923",Dourados,MS,5003702
+632,632,"Dunsley  Crossroad, 2210",Lagoa,PB,2508109
+633,633,"Vine  Avenue, 3248",Guaratinguetá,SP,3518404
+634,634,"Kilner   Hill, 6442",Crissiumal,RS,4306007
+635,635,"Thomas  Hill, 9048",Terra Roxa,PR,4127403
+637,637,"Arundel   Hill, 1945",Camapuã,MS,5002605
+638,638,"Egerton  Rue, 4796",Pedro Afonso,TO,1716505
+639,639,"Balham   Crossroad, 6630",Bocaiúva,MG,3107307
+640,640,"Ampton  Street, 2893",Varzedo,BA,2933174
+641,641,"Babmaes    Hill, 4739",Anadia,AL,2700201
+642,642,"Monroe Rue, 1700",Naviraí,MS,5005707
+643,643,"Camdenhurst   Rue, 8234",Pau D'Arco,PA,1505551
+644,644,"Underwood  Lane, 6749",Douradoquara,MG,3123502
+645,645,"Central  Road, 2123",Cambuquira,MG,3110707
+646,646,"Sundown Road, 2578",Chaves,PA,1502509
+647,647,"Western   Vale, 563",Paraná,RN,2408607
+648,648,"Rivervalley Boulevard, 5611",Abatiá,PR,4100103
+649,649,"Cingworth  Avenue, 2217",Relvado,RS,4315453
+650,650,"Fairview Avenue, 1694",Engenho Velho,RS,4306924
+651,651,"Magnolia Grove, 14",Itacaré,BA,2914901
+652,652,"King Route, 1310",Aquiraz,CE,2301000
+653,653,"Waite  Avenue, 1459",Verdelândia,MG,3171030
+655,655,"Calverley  Walk, 6791",Amaturá,AM,1300060
+656,656,"Cloth  Lane, 4669",Curuçá,PA,1502905
+657,657,"Carpenter Walk, 5246",São Domingos do Norte,ES,3204658
+658,658,"Western   Crossroad, 5086",São Domingos,SC,4216107
+659,659,"Thoresby   Avenue, 9508",Ataléia,MG,3104700
+660,660,"Cephas  Rue, 1141",Paquetá,PI,2207553
+661,661,"Coalecroft  Vale, 277",Tufilândia,MA,2112274
+662,662,"Belmont Park Rue, 1951",Francisco Macedo,PI,2204154
+663,663,"Bacon  Rue, 2614",Baía Formosa,RN,2401404
+664,664,"Virginia Boulevard, 5921",Feira da Mata,BA,2910776
+665,665,"Pine Road, 5106",Bela Vista do Piauí,PI,2201556
+666,666,"Angrave    Walk, 2003",Tubarão,SC,4218707
+667,667,"Adderley   Vale, 5315",Pedro Afonso,TO,1716505
+668,668,"Chicksand  Boulevard, 5644",Santa Rita do Sapucaí,MG,3159605
+669,669,"Camberwell  Hill, 9005",Saubara,BA,2929750
+670,670,"Bendall   Pass, 1346",Zortéa,SC,4219853
+672,672,"Monroe Walk, 3708",Pariquera-Açu,SP,3536208
+673,673,"Oxford Rue, 512",Florestal,MG,3126000
+674,674,"King Boulevard, 5508",Maravilha,SC,4210506
+675,675,"Eaglet  Boulevard, 7099",Vilhena,RO,1100304
+676,676,"Littlebury  Walk, 7094",Ribeira do Amparo,BA,2926509
+677,677,"Virginia Avenue, 176",Várzea,RN,2414704
+678,678,"Ellerslie Street, 6026",Chuvisca,RS,4305447
+679,679,"Fawn Way, 4169",Sericita,MG,3166303
+681,681,"Aylward   Vale, 6259",Belém,PB,2501906
+683,683,"Dunstable   Alley, 4759",Rio do Sul,SC,4214805
+684,684,"Maple Crossroad, 1469",Nova Alvorada,RS,4312757
+685,685,"Wager   Crossroad, 6168",Itirapuã,SP,3523701
+686,686,"Erindale Route, 4830",Umburatiba,MG,3170305
+688,688,"Adams  Boulevard, 1481",Martinópole,CE,2307908
+690,690,"Apostle  Hill, 7777",Borebi,SP,3507456
+691,691,"Rosewood Walk, 2147",São Sebastião da Boa Vista,PA,1507706
+692,692,"Parkfield  Tunnel, 7304",Caatiba,BA,2904803
+693,693,"Kinglake  Drive, 5408",Ibiracatu,MG,3129657
+694,694,"York Avenue, 7359",Nova Alvorada,RS,4312757
+695,695,"Thomas Doyle   Avenue, 2607",Sud Mennucci,SP,3552304
+696,696,"King Hill, 7476",Quixeramobim,CE,2311405
+697,697,"Monroe Grove, 860",Euclides da Cunha,BA,2910701
+698,698,"Thomas More   Road, 5547",Vila Rica,MT,5108600
+699,699,"Tilloch   Pass, 6460",Jatobá,MA,2105450
+700,700,"Argyle  Way, 492",Francisco Badaró,MG,3126505
+701,701,"Enford   Hill, 4343",Alpercata,MG,3101805
+702,702,"Calverley  Grove, 1412",Santana de Parnaíba,SP,3547304
+703,703,"Commercial  Rue, 4108",Urucará,AM,1304302
+704,704,"Ensign   Crossroad, 7802",Chapada,RS,4305306
+705,705,"Blackheath   Route, 2900",Talismã,TO,1720978
+706,706,"Fieldstone Vale, 3216",Alvorada D'Oeste,RO,1100346
+707,707,"Aberavon  Tunnel, 3512",Aparecida do Taboado,MS,5001003
+708,708,"Norland  Route, 1738",Coelho Neto,MA,2103406
+709,709,"Ernest  Route, 4806",São José do Sabugi,PB,2514701
+710,710,"Falconberg   Alley, 5854",Sertaneja,PR,4126405
+711,711,"Carolina  Tunnel, 6506",São Carlos,SP,3548906
+712,712,"Capeners  Crossroad, 8484",São José da Laje,AL,2708303
+714,714,"Andrews  Way, 6609",Senhora dos Remédios,MG,3166204
+715,715,"Arline    Hill, 4424",Glória do Goitá,PE,2606101
+716,716,"Lincoln Road, 5460",Serraria,PB,2515906
+717,717,"Bedford  Rue, 2615",Presidente Olegário,MG,3153400
+718,718,"Chelsea Manor  Grove, 3383",Buritama,SP,3508108
+720,720,"Queen Caroline   Rue, 6984",São Sebastião do Anta,MG,3164472
+721,721,"Bazely   Lane, 9117",Virgínia,MG,3171709
+722,722,"Elizabeth  Road, 6257",Novo Hamburgo,RS,4313409
+723,723,"Marina  Road, 3790",Glicério,SP,3517109
+725,725,"Cavell   Crossroad, 7755",Seropédica,RJ,3305554
+726,726,"Longmoore   Rue, 5338",Caxambu,MG,3115508
+727,727,"Capeners  Vale, 4460",Olímpia,SP,3533908
+728,728,"Aspen Road, 7553",Fonte Boa,AM,1301605
+729,729,"Emden   Avenue, 3750",Senador Alexandre Costa,MA,2111748
+730,730,"Canon Route, 3271",Alvorada,RS,4300604
+731,731,"Maple Street, 3434",Gaúcha do Norte,MT,5103858
+732,732,"Chester  Route, 7964",São João do Soter,MA,2111078
+733,733,"Chatfield  Tunnel, 2524",Congonhas do Norte,MG,3118106
+734,734,"Virginia Grove, 8468",Raposos,MG,3153905
+735,735,"Andrews  Crossroad, 2826",Ourizona,PR,4117404
+736,736,"Tilson  Pass, 9391",Jandira,SP,3525003
+737,737,"Chatsworth  Lane, 6806",Araporã,MG,3103751
+738,738,"Adderley   Tunnel, 1754",Vera Cruz,RN,2414803
+739,739,"Thoresby   Way, 8988",Cabedelo,PB,2503209
+740,740,"Jackson Crossroad, 5312",Ouroeste,SP,3534757
+741,741,"Chalcot  Lane, 2595",São Gonçalo do Gurguéia,PI,2209757
+742,742,"Spruce Grove, 4938",Cabaceiras,PB,2503100
+743,743,"Cleveland  Road, 506",Palhano,CE,2310001
+744,744,"Church Avenue, 980",Lindoeste,PR,4113452
+745,745,"Pine Boulevard, 6873",São Vendelino,RS,4319752
+746,746,"Rosewood Boulevard, 3996",Curvelo,MG,3120904
+747,747,"Garfield Crossroad, 5652",Mimoso de Goiás,GO,5213053
+748,748,"Battis   Hill, 6864",Passa Tempo,MG,3147709
+749,749,"Coalecroft  Alley, 6171",Landri Sales,PI,2205607
+750,750,"Chantry   Boulevard, 9475",São João do Pacuí,MG,3162658
+751,751,"Sundown Road, 9424",Alto Paraná,PR,4100608
+752,752,"Paris   Route, 8376",Guaraciama,MG,3128253
+753,753,"Emily  Alley, 4727",Alvinlândia,SP,3501509
+754,754,"Blackpool  Alley, 2136",Ibirama,SC,4206900
+755,755,"Ashley Grove, 3934",Grandes Rios,PR,4108700
+756,756,"Thurloe   Pass, 5699",Presidente Dutra,MA,2109106
+757,757,"Viscount   Pass, 299",Taquaraçu de Minas,MG,3168309
+758,758,"Bede  Road, 5203",Rio Pardo,RS,4315701
+759,759,"Ellerman   Pass, 9976",Cerqueira César,SP,3511409
+761,761,"Beatty  Rue, 5608",Curral Velho,PB,2505303
+762,762,"Littlebury  Rue, 4350",Bertioga,SP,3506359
+764,764,"Chelsea Manor  Road, 5040",Vargem Grande Paulista,SP,3556453
+765,765,"Camelot   Crossroad, 7569",Maracaçumé,MA,2106326
+766,766,"Burton  Pass, 7806",Itarantim,BA,2916807
+767,767,"Bellenden  Road, 5525",Balneário Arroio do Silva,SC,4201950
+768,768,"Calvin   Route, 1245",Castanhal,PA,1502400
+769,769,"Cephas  Pass, 1849",Nova América da Colina,PR,4116604
+770,770,"Camberwell  Grove, 243",Paulistas,MG,3148400
+771,771,"Union  Tunnel, 2524",Novo Airão,AM,1303205
+772,772,"Ensign   Road, 9031",Alto Rio Novo,ES,3200359
+773,773,"Yoakley Tunnel, 9937",Itaquaquecetuba,SP,3523107
+774,774,"Dyott   Pass, 2934",Bela Vista,MS,5002100
+775,775,"Yorkshire  Lane, 2191",Craíbas,AL,2702355
+776,776,"Capeners  Pass, 332",Aparecida de Goiânia,GO,5201405
+778,778,"Tilloch   Walk, 3933",Taboão da Serra,SP,3552809
+779,779,"Sheringham   Route, 9542",Santo Antônio do Monte,MG,3160405
+780,780,"Bicknell  Drive, 8880",Monte Alegre,RN,2407807
+781,781,"Chester      Vale, 4515",Santo Antônio do Aracanguá,SP,3548054
+782,782,"Clavell   Tunnel, 3263",Santa Luz,PI,2209302
+783,783,"Durweston   Hill, 6971",Ibirité,MG,3129806
+784,784,"Cable    Tunnel, 8212",Muriaé,MG,3143906
+785,785,"Westbourne Rue, 8945",Águas Belas,PE,2600500
+786,786,"Westcott  Lane, 1837",Trizidela do Vale,MA,2112233
+787,787,"Belgrave  Street, 623",Água Santa,RS,4300059
+788,788,"Fairbairn  Road, 5712",Birigui,SP,3506508
+789,789,"Elia   Walk, 9808",José Raydan,MG,3136553
+790,790,"Western   Hill, 795",Água Preta,PE,2600401
+791,791,"Bliss  Avenue, 3874",Jussara,GO,5212204
+792,792,"Canon Drive, 2438",Santo Antônio do Aracanguá,SP,3548054
+793,793,"Dutton   Road, 3504",Vera,MT,5108501
+794,794,"Bempton   Drive, 6614",Cordeiros,BA,2909000
+795,795,"Glenwood Grove, 9008",Cajueiro,AL,2701308
+796,796,"Parkfields Avenue, 368",Caravelas,BA,2906907
+798,798,"Bliss  Crossroad, 7751",Dezesseis de Novembro,RS,4306353
+799,799,"Comet House  Drive, 8630",Uruçuca,BA,2932705
+800,800,"Fawn Vale, 7821",Madre de Deus,BA,2919926
+801,801,"Clissold  Way, 2253",Quilombo,SC,4214201
+802,802,"Cavell   Drive, 6837",Dom Inocêncio,PI,2203453
+803,803,"Elia   Street, 6193",Barra D'Alcântara,PI,2201176
+804,804,"Earl Rise Pass, 8480",São José da Vitória,BA,2929354
+805,805,"Howard Route, 6086",Santa Ernestina,SP,3546504
+806,806,"Bayberry Rue, 45",Salinas,MG,3157005
+807,807,"Ayres   Alley, 1458",João Pessoa,PB,2507507
+808,808,"Chester      Vale, 587",Tupandi,RS,4322251
+809,809,"Babmaes    Pass, 9801",Matipó,MG,3140902
+810,810,"Aberavon  Road, 285",Pires do Rio,GO,5217401
+811,811,"West Avenue, 4485",São José da Tapera,AL,2708402
+812,812,"St. Jamess  Street, 3275",Ibiassucê,BA,2912004
+813,813,"Rivervalley Alley, 1336",Turilândia,MA,2112456
+814,814,"Waldram Park  Vale, 5994",Agrolândia,SC,4200200
+815,815,"Castle Hill, 3169",Renascença,PR,4121604
+816,816,"Ellerslie Walk, 7474",Santa Maria da Serra,SP,3547007
+,,,,,
+817,817,"Thurloe   Hill, 8699",Itaipulândia,PR,4110953
+819,819,"Dyott   Drive, 4126",São José do Xingu,MT,5107354
+820,820,"Chamberlain  Drive, 3011",Cunha,SP,3513603
+821,821,"Collins  Drive, 3574",Cássia,MG,3115102
+822,822,"Thurloe   Alley, 8348",Monsenhor Paulo,MG,3142601
+823,823,"Durnford  Rue, 4533",Dueré,TO,1707306
+824,824,"Biggerstaff   Drive, 608",Paraúna,GO,5216403
+825,825,"Byland  Street, 7638",Maquiné,RS,4311775
+826,826,"Wakley   Grove, 8784",Curimatá,PI,2203206
+829,829,"Carlisle  Avenue, 9922",Aiuruoca,MG,3101201
+830,830,"St. Jamess  Street, 3256",Monte Alegre de Sergipe,SE,2804201
+831,831,"Cavaye  Tunnel, 4014",Potengi,CE,2311207
+832,832,"Clifton  Hill, 6298",Caridade,CE,2303006
+833,833,"Hickory   Crossroad, 2179",Lindóia do Sul,SC,4209854
+834,834,"Cheltenham  Hill, 5757",Jacobina do Piauí,PI,2205151
+835,835,"Falconberg   Boulevard, 740",Graça Aranha,MA,2104701
+836,836,"Elizabeth  Rue, 6322",Porto Acre,AC,1200807
+837,837,"Chart   Avenue, 4301",Oiapoque,AP,1600501
+838,838,"Cheltenham  Avenue, 5006",Monte Alegre do Piauí,PI,2206605
+839,839,"St. Pauls  Way, 1638",Garruchos,RS,4308656
+841,841,"Sheffield Avenue, 2419",Vargem Alegre,MG,3170578
+842,842,"Cloth  Way, 48",Guaraci,PR,4109203
+843,843,"Lincoln Street, 867",Boa Vista das Missões,RS,4302154
+844,844,"Camley   Rue, 8469",Abaíra,BA,2900108
+845,845,"South Drive, 2459",Cachoeira Dourada,GO,5204250
+846,846,"Longleigh   Tunnel, 9317",Lorena,SP,3527207
+847,847,"Carol   Grove, 639",Carmo da Cachoeira,MG,3113909
+848,848,"Caroline  Grove, 3278",Axixá,MA,2101103
+849,849,"Glenwood Alley, 6333",São Geraldo,MG,3161502
+851,851,"King Crossroad, 2559",Condeúba,BA,2908705
+852,852,"East Boulevard, 7680",Paulo Frontin,PR,4118709
+853,853,"Antrobus   Drive, 5934",São Domingos,PB,2513968
+854,854,"Wadham  Grove, 720",Nova Serrana,MG,3145208
+855,855,"Chancellor  Hill, 1098",Clevelândia,PR,4105706
+856,856,"Clerkenwell Route, 1401",Rifaina,SP,3543600
+857,857,"Clavell   Route, 4832",Niquelândia,GO,5214606
+858,858,"Castile  Vale, 4945",Penha,SC,4212502
+859,859,"Caslon   Alley, 5079",Montividiu do Norte,GO,5213772
+861,861,"Sundown Alley, 2959",São Sebastião da Amoreira,PR,4126009
+862,862,"Church Road, 1909",Queimadas,BA,2925808
+864,864,"Dunton  Boulevard, 72",Euclides da Cunha Paulista,SP,3515350
+865,865,"Camdenhurst   Drive, 4038",Rio Pardo,RS,4315701
+866,866,"Sundown Avenue, 3138",Poços de Caldas,MG,3151800
+867,867,"Kinglake  Way, 4837",Carvalhos,MG,3114808
+868,868,"Magnolia Tunnel, 5925",São Brás,AL,2708204
+869,869,"Virgil   Road, 3035",Catolé do Rocha,PB,2504306
+870,870,"Beechen  Drive, 572",Governador Jorge Teixeira,RO,1101005
+871,871,"Battis   Route, 9386",Campinas,SP,3509502
+872,872,"Ensign   Drive, 1837",Cacimba de Dentro,PB,2503506
+873,873,"Blendon    Drive, 5733",Antônio Prado de Minas,MG,3103108
+874,874,"Belfort  Alley, 188",Wenceslau Braz,MG,3172202
+875,875,"Linda Lane Rue, 4380",Pedra Mole,SE,2805000
+876,876,"Lexington Rue, 2874",Luziânia,GO,5212501
+877,877,"Bales  Road, 8399",Jaboatão dos Guararapes,PE,2607901
+878,878,"Ellerslie Tunnel, 8056",São João Batista do Glória,MG,3162203
+879,879,"Clissold  Avenue, 2084",Marituba,PA,1504422
+880,880,"Berry  Lane, 7503",Sabinópolis,MG,3156809
+881,881,"Thurloe   Walk, 8844",Formosa do Oeste,PR,4108205
+882,882,"Sundown Way, 6584",Santo Antônio do Leste,MT,5107792
+883,883,"Clere  Boulevard, 613",Nova Araçá,RS,4312807
+884,884,"Cecilia  Rue, 3199",Brunópolis,SC,4202875
+885,885,"Thomas Doyle   Avenue, 6459",Itaporã,MS,5004502
+886,886,"Camera  Rue, 8377",Ipatinga,MG,3131307
+887,887,"King Edward  Road, 2426",Bragança Paulista,SP,3507605
+888,888,"Meadow Way, 326",Doutor Severiano,RN,2403202
+889,889,"Argyle  Road, 7976",Lupércio,SP,3527801
+890,890,"Bendall   Drive, 8796",Taquaraçu de Minas,MG,3168309
+891,891,"Dunstans  Crossroad, 4799",Itarumã,GO,5211305
+892,892,"Bempton   Boulevard, 2135",Igarapé-Açu,PA,1503200
+894,894,"Anns  Alley, 7300",Branquinha,AL,2701100
+895,895,"Bermondsey    Rue, 6915",São Sebastião do Oeste,MG,3164605
+896,896,"Pine Hill, 5731",Itaperuçu,PR,4111258
+897,897,"Ben   Grove, 9097",Baía da Traição,PB,2501401
+898,898,"College  Tunnel, 7007",Benjamin Constant,AM,1300607
+899,899,"Garfield Drive, 8850",Crisópolis,BA,2909604
+901,901,"Lincoln Crossroad, 1640",Beneditinos,PI,2201606
+902,902,"Balfour    Vale, 2191",Rosário da Limeira,MG,3156452
+903,903,"Chartham  Hill, 5249",Novo Itacolomi,PR,4117297
+904,904,"Queen Vale, 7077",Vila Nova do Sul,RS,4323457
+905,905,"Bingham   Pass, 7247",Nova Independência,SP,3533205
+906,906,"Queen Street, 7198",Presidente Kubitschek,MG,3153301
+907,907,"Capeners  Drive, 6041",Rondinha,RS,4316204
+908,908,"Commercial  Road, 6717",Rolador,RS,4315958
+909,909,"Durham Way, 7169",Santa Maria do Cambucá,PE,2612703
+910,910,"Earl Rise Tunnel, 2010",Macajuba,BA,2919603
+911,911,"Boadicea   Drive, 1514",Igaraçu do Tietê,SP,3520004
+912,912,"Bede  Crossroad, 4182",Pedranópolis,SP,3536901
+913,913,"Howard Rue, 263",Juruena,MT,5105176
+915,915,"Gathorne   Route, 3213",Santa Cruz de Salinas,MG,3157377
+916,916,"Church Hill, 2519",Santa Rita,PB,2513703
+917,917,"Tilson  Tunnel, 8875",Monte Alegre,RN,2407807
+918,918,"Sheringham   Alley, 3571",Nilo Peçanha,BA,2922607
+919,919,"Longmoore   Avenue, 6173",São José do Mantimento,MG,3163607
+920,920,"Bacon  Vale, 7272",Inhaúma,MG,3131000
+921,921,"Church Tunnel, 5604",Lajeado,TO,1712009
+922,922,"Sherlock   Avenue, 793",Coronel João Sá,BA,2909208
+923,923,"Becher  Avenue, 9193",Novo Barreiro,RS,4313490
+924,924,"Chamberlain  Hill, 8112",Maiquinique,BA,2920007
+925,925,"Geffrye   Road, 6689",Águas Belas,PE,2600500
+926,926,"Burton  Rue, 5831",Iguaracy,PE,2606903
+927,927,"Belmont Park Alley, 4597",Iguaracy,PE,2606903
+928,928,"Blackheath  Street, 4366",Monte Santo do Tocantins,TO,1713700
+929,929,"Canon Street, 6911",Nova Iguaçu de Goiás,GO,5214879
+930,930,"Fieldstone Rue, 8066",Planalto,RS,4314704
+931,931,"Apollo  Crossroad, 8482",Três Barras do Paraná,PR,4127858
+932,932,"Vincent  Rue, 4355",Brusque,SC,4202909
+933,933,"Birkenhead   Rue, 1809",Pinheiro,MA,2108603
+934,934,"Rosewood Alley, 7006",Alvorada do Norte,GO,5200803
+935,935,"Cliffords  Hill, 1169",Tuntum,MA,2112308
+936,936,"Bekesbourne   Route, 1616",Alfredo Wagner,SC,4200705
+937,937,"Fairfield  Alley, 3936",Jucás,CE,2307403
+938,938,"Chalcot  Crossroad, 7137",Siderópolis,SC,4217600
+939,939,"Longman   Grove, 6480",Rifaina,SP,3543600
+940,940,"Woodland Avenue, 1021",Jari,RS,4311130
+941,941,"Kilner   Drive, 1946",São João Nepomuceno,MG,3162906
+943,943,"Arctic   Grove, 9889",Murici,AL,2705507
+944,944,"Bell    Way, 1156",Ubiretama,RS,4322343
+945,945,"Angrave    Road, 1328",São Caitano,PE,2613107
+946,946,"Cavell   Alley, 917",Luminárias,MG,3138708
+947,947,"Andsell    Street, 7590",Aquiraz,CE,2301000
+948,948,"Ashley Tunnel, 7563",Garopaba,SC,4205704
+949,949,"Epworth  Street, 3447",Rosário Oeste,MT,5107701
+950,950,"Calderwood   Vale, 9551",Luzilândia,PI,2205805
+951,951,"Kilner   Street, 3655",Urussanga,SC,4219002
+952,952,"Hammersmith  Drive, 132",Apiacás,MT,5100805
+953,953,"Carlton  Road, 9777",Luzerna,SC,4210035
+954,954,"Meadow Drive, 5143",Anitápolis,SC,4201109
+955,955,"Fairview Street, 5569",Ibirarema,SP,3519501
+956,956,"Queen Caroline   Road, 46",São Pedro do Piauí,PI,2210508
+957,957,"Angel  Pass, 6794",Ouro Branco,MG,3145901
+958,958,"Aylward   Crossroad, 3632",Coari,AM,1301209
+959,959,"Belmore  Grove, 1958",Vargem Grande Paulista,SP,3556453
+961,961,"Biggerstaff   Alley, 5062",Padre Paraíso,MG,3146305
+962,962,"Wakley   Vale, 8455",Santa Cruz,RN,2411205
+963,963,"Hickory   Rue, 9647",São Miguel de Taipu,PB,2515005
+964,964,"Chester      Tunnel, 58",Carmo do Rio Verde,GO,5205000
+965,965,"Linda Lane Road, 9992",Porto Alegre do Piauí,PI,2208551
+966,966,"Sheffield Grove, 118",Coreaú,CE,2304004
+967,967,"Bales  Grove, 8226",Carvalhos,MG,3114808
+968,968,"Bacon  Pass, 5020",Guarabira,PB,2506301
+969,969,"Ashley Lane, 65",Pereira Barreto,SP,3537404
+970,970,"Linden Walk, 3631",Itacurubi,RS,4310553
+972,972,"Balham   Route, 5165",Araguapaz,GO,5202155
+973,973,"Camley   Boulevard, 3926",Mortugaba,BA,2921807
+974,974,"Balfour    Hill, 282",Aquidabã,SE,2800209
+975,975,"Andrews  Way, 1752",Ipuaçu,SC,4207684
+976,976,"Maple Pass, 1381",Entre Rios,SC,4205175
+977,977,"Rail Hill, 7043",Dom Pedro de Alcântara,RS,4306551
+979,979,"Cavaye  Drive, 7678",Belém do Brejo do Cruz,PB,2502003
+980,980,"Chantry   Tunnel, 934",Aurora do Pará,PA,1500958
+981,981,"Apostle  Pass, 2801",Braúna,SP,3507704
+982,982,"Bolingbroke  Tunnel, 4728",Socorro,SP,3552106
+983,983,"Coborn  Lane, 3131",São José do Egito,PE,2613602
+984,984,"Bocking   Pass, 9781",Manaquiri,AM,1302553
+985,985,"Carltoun   Way, 4444",Ribeiro Gonçalves,PI,2208908
+986,986,"Cadogan  Vale, 6674",Timbé do Sul,SC,4218103
+987,987,"Eldon  Vale, 8156",Pereiro,CE,2310803
+988,988,"Enford   Alley, 203",Rancho Alegre,PR,4121307
+989,989,"Ensign   Tunnel, 2432",Tupaciguara,MG,3169604
+990,990,"West Drive, 5921",Itaú,RN,2404903
+991,991,"Fairholt   Drive, 375",Cuité,PB,2505105
+992,992,"Caslon   Pass, 1432",Santa Cruz,RN,2411205
+993,993,"Baynes  Grove, 3210",Vila Pavão,ES,3205150
+994,994,"Central  Rue, 8286",Boqueirão do Piauí,PI,2201945
+995,995,"Blackheath   Tunnel, 8488",Hugo Napoleão,PI,2204600
+996,996,"Chart   Pass, 7530",São João d'Aliança,GO,5220009
+997,997,"Heritage Vale, 9083",Ibipitanga,BA,2912509
+998,998,"Thomas Doyle   Way, 1096",Novo Horizonte,SC,4211652
+999,999,"West Tunnel, 4934",Viçosa do Ceará,CE,2314102
+1000,1000,"Ampton  Way, 9460",Pau dos Ferros,RN,2409407
+1001,1001,"Blackpool  Avenue, 4952",Carazinho,RS,4304705
+1002,1002,"Coborn  Way, 2543",Malhada,BA,2920205
+1003,1003,"Clarges   Hill, 9605",Águia Branca,ES,3200136
+1004,1004,"Victoria Rise Grove, 1359",Turmalina,SP,3555307
+1005,1005,"Blackheath  Boulevard, 849",Conceição do Rio Verde,MG,3117702
+1006,1006,"Thoresby   Vale, 1342",Tobias Barreto,SE,2807402
+1007,1007,"Falconberg   Alley, 7630",Capoeiras,PE,2603801
+1008,1008,"Sheffield Hill, 3930",Cachoeira Paulista,SP,3508603
+1010,1010,"Camelot   Grove, 1028",Igarapava,SP,3520103
+1011,1011,"Angela   Walk, 2952",Palmeirândia,MA,2107605
+1012,1012,"Mariner   Grove, 6343",Aspásia,SP,3503950
+1013,1013,"Ben   Walk, 685",Livramento de Nossa Senhora,BA,2919504
+1014,1014,"Blackwall  Tunnel, 2720",Mombaça,CE,2308500
+1015,1015,"Railroad Hill, 5481",Pavão,MG,3148509
+1016,1016,"Thomas  Road, 8789",Água Fria de Goiás,GO,5200175
+1017,1017,"Waldram Park  Hill, 8674",Quixeramobim,CE,2311405
+1018,1018,"Carnegie   Way, 1092",Carolina,MA,2102804
+1019,1019,"Magnolia Crossroad, 179",Timóteo,MG,3168705
+1020,1020,"Sheffield Street, 3106",Manaíra,PB,2509008
+1021,1021,"Oxford Street, 2516",Afuá,PA,1500305
+1022,1022,"Chester      Way, 6342",Areial,PB,2501203
+1023,1023,"Gavel   Walk, 2116",São Joaquim do Monte,PE,2613305
+1024,1024,"Coborn  Avenue, 6759",Itaporã do Tocantins,TO,1711100
+1025,1025,"Camberwell  Lane, 54",São Francisco do Guaporé,RO,1101492
+1026,1026,"Lexington Hill, 7801",Buriti dos Lopes,PI,2202000
+1027,1027,"Victoria  Road, 9558",Catingueira,PB,2504207
+1028,1028,"Clifton  Road, 1385",Antonina,PR,4101200
+1029,1029,"Boleyn  Alley, 4978",Arapuá,MG,3103801
+1030,1030,"Glenwood Road, 1727",Piedade de Ponte Nova,MG,3150208
+1031,1031,"Thomas Doyle   Road, 860",Ângulo,PR,4101150
+1032,1032,"Camley   Crossroad, 2738",Antônio Carlos,MG,3102902
+1033,1033,"Bell    Drive, 1972",Luciara,MT,5105309
+1034,1034,"Dutton   Tunnel, 9785",Guaratinguetá,SP,3518404
+1035,1035,"Magnolia Alley, 8899",Rio Formoso,PE,2611903
+1036,1036,"Glenwood Avenue, 5165",Goiatins,TO,1709005
+1037,1037,"Eldon  Way, 5095",Londrina,PR,4113700
+1038,1038,"Hickory   Tunnel, 9221",Anguera,BA,2901502
+1039,1039,"East Way, 9572",Pilão Arcado,BA,2924405
+1042,1042,"Wake  Crossroad, 9533",Araguacema,TO,1701903
+1043,1043,"Earl Rise Street, 3319",Maripá de Minas,MG,3140209
+1044,1044,"Collins  Street, 8119",São Simão,GO,5220405
+1045,1045,"Enderby   Drive, 6023",Laguna Carapã,MS,5005251
+1046,1046,"Timber   Walk, 722",Balneário Arroio do Silva,SC,4201950
+1047,1047,"Commercial  Alley, 3172",São Roque,SP,3550605
+1048,1048,"Parkgate  Way, 3215",Aracatu,BA,2902005
+1049,1049,"Under  Street, 3681",Belmonte,BA,2903409
+1050,1050,"North Alley, 3885",Visconde do Rio Branco,MG,3172004
+1051,1051,"Callcott   Drive, 6672",Jati,CE,2307205
+1052,1052,"Berriman  Walk, 1143",Cunha,SP,3513603
+1053,1053,"Ensign   Route, 559",Coronel Martins,SC,4204459
+1055,1055,"Zealand Grove, 2671",Comendador Gomes,MG,3116902
+1056,1056,"Thrale   Tunnel, 4531",Itainópolis,PI,2205003
+1057,1057,"Walnut Vale, 4567",Santa Maria do Suaçuí,MG,3158201
+1058,1058,"Cavaye  Walk, 692",Antonina do Norte,CE,2300804
+1060,1060,"Blomfield  Crossroad, 9107",Silveira Martins,RS,4320651
+1061,1061,"Bendmore  Vale, 4117",Aruanã,GO,5202502
+1062,1062,"Blue Anchor  Boulevard, 5818",Perolândia,GO,5216452
+1063,1063,"Beatty  Crossroad, 9552",Sapucaia,PA,1507755
+1064,1064,"Chester  Lane, 1171",Orizona,GO,5215306
+1065,1065,"Blenkarne  Hill, 8132",Brejo Alegre,SP,3507753
+1066,1066,"Chapel  Hill, 1140",Torixoréu,MT,5108204
+1067,1067,"Caslon   Crossroad, 6263",Conquista D'Oeste,MT,5103361
+1068,1068,"Oxford Pass, 2608",Pedrão,BA,2924108
+1069,1069,"Abbots   Tunnel, 682",Simões,PI,2210706
+1070,1070,"Bolton  Road, 6599",Caruaru,PE,2604106
+1071,1071,"Angela   Way, 2728",Jardim do Seridó,RN,2405702
+1072,1072,"Chambers  Way, 9643",Engenho Velho,RS,4306924
+1073,1073,"Walnut Street, 3641",Ibiaçá,RS,4309803
+1074,1074,"Caedmon  Rue, 9145",Braganey,PR,4103354
+1075,1075,"Balham   Alley, 4883",Virmond,PR,4128658
+1077,1077,"Timothy  Vale, 8550",Baixa Grande do Ribeiro,PI,2201150
+1078,1078,"Bellenden  Pass, 3401",Cupira,PE,2605004
+1079,1079,"Balham   Pass, 6114",Casa Branca,SP,3510807
+1080,1080,"Carpenter Hill, 9265",Sales,SP,3544806
+1082,1082,"Bliss  Lane, 9133",Terra Nova do Norte,MT,5108055
+1083,1083,"Glenwood Way, 5535",Campos Borges,RS,4304101
+1084,1084,"Cliffords  Way, 7784",São Benedito do Sul,PE,2612901
+1085,1085,"Glenwood Grove, 4844",Tuparendi,RS,4322301
+1086,1086,"Hickory   Crossroad, 927",Santo Antônio do Jacinto,MG,3160306
+1087,1087,"Baltic  Route, 4151",Cambé,PR,4103701
+1088,1088,"Charterhouse  Lane, 6770",Novo Cabrais,RS,4313391
+1090,1090,"Bedford  Grove, 900",Capivari do Sul,RS,4304671
+1091,1091,"Apothecary   Route, 5042",Águas Vermelhas,MG,3101003
+1092,1092,"Sheringham   Hill, 3688",Ribamar Fiquene,MA,2109551
+1093,1093,"Thomas Doyle   Boulevard, 1182",Ibirapuã,BA,2912806
+1094,1094,"Arthur  Vale, 8437",Carmésia,MG,3113800
+1095,1095,"Oxford Drive, 974",Santo Antônio do Amparo,MG,3159902
+1096,1096,"Clerkenwell Drive, 6496",Corumbá,MS,5003207
+1097,1097,"Bolton  Boulevard, 3077",Brasilândia do Tocantins,TO,1703602
+1098,1098,"Cave   Drive, 9982",Belém de Maria,PE,2601508
+1099,1099,"Clarks  Tunnel, 3365",Sertãozinho,PB,2515930
+1100,1100,"Birkenhead   Road, 9814",Santaluz,BA,2928000
+1101,1101,"Apollo  Pass, 4703",Cariri do Tocantins,TO,1703867
+1102,1102,"Cam  Crossroad, 8397",Alegria,RS,4300455
+1103,1103,"Colombo   Road, 410",Reriutaba,CE,2311702
+1104,1104,"Queen Alley, 7255",Itapuranga,GO,5211206
+1105,1105,"Arthur  Walk, 6928",Toritama,PE,2615409
+1106,1106,"Paris   Vale, 7366",Alto Alegre,SP,3501103
+1107,1107,"Central  Walk, 9731",Presidente Venceslau,SP,3541505
+1108,1108,"Maple Walk, 4774",Fernando Falcão,MA,2104081
+1109,1109,"Eldon  Crossroad, 5543",Araguanã,MA,2100873
+1110,1110,"Oxford Alley, 3048",Camaragibe,PE,2603454
+1111,1111,"Apollo  Alley, 4731",Porto Vera Cruz,RS,4315073
+1112,1112,"Sherlock   Vale, 1079",São João do Sabugi,RN,2412104
+1113,1113,"Bellenden   Crossroad, 2250",Nova Esperança do Sul,RS,4313037
+1114,1114,"Fairfield  Boulevard, 4254",Praia Norte,TO,1718303
+1115,1115,"Cavaye  Vale, 2143",Caarapó,MS,5002407
+1116,1116,"Clissold  Lane, 5981",Nova Xavantina,MT,5106257
+1117,1117,"Western   Drive, 4775",Presidente Castelo Branco,PR,4120408
+1118,1118,"Sheraton   Crossroad, 1120",Campanha,MG,3110905
+1119,1119,"Ellerman   Road, 8195",Mãe do Rio,PA,1504059
+1120,1120,"Blue Anchor  Lane, 8839",Santa Maria,RN,2409332
+1121,1121,"Aspen Drive, 915",São Miguel do Anta,MG,3163805
+1122,1122,"Hickory   Road, 8110",Manoel Vitorino,BA,2920403
+1123,1123,"Parkfield  Walk, 8495",General Sampaio,CE,2304608
+1124,1124,"Coborn  Rue, 6993",Dom Eliseu,PA,1502939
+1125,1125,"Cheltenham  Pass, 9854",Adrianópolis,PR,4100202
+1127,1127,"College  Avenue, 8530",Belo Vale,MG,3106408
+1128,1128,"Underwood  Crossroad, 3684",Palmeirante,TO,1715705
+1129,1129,"Canal  Rue, 1665",Arês,RN,2401206
+1130,1130,"Birkin   Way, 1178",Monte Sião,MG,3143401
+1131,1131,"Gavel   Walk, 776",Campos Novos Paulista,SP,3509809
+1132,1132,"Hampden  Pass, 9068",Guaimbê,SP,3517307
+1133,1133,"Calvin   Rue, 900",Jatobá,MA,2105450
+1134,1134,"Liverpool  Vale, 5634",Cubati,PB,2505006
+1135,1135,"Castlereagh   Road, 2113",Piranguçu,MG,3150901
+1136,1136,"Balham   Rue, 3403",Cajati,SP,3509254
+1137,1137,"Chamberlain  Route, 6318",Rio do Sul,SC,4214805
+1138,1138,"Tiptree   Grove, 8539",Catanduva,SP,3511102
+1139,1139,"Western   Drive, 9890",Correntes,PE,2604700
+1140,1140,"Bigland  Route, 7081",Serra,ES,3205002
+1141,1141,"Blake  Hill, 2441",Estreito,MA,2104057
+1142,1142,"Tiptree   Way, 9592",Serra Grande,PB,2515708
+1143,1143,"Andrews  Way, 3584",Tucuruí,PA,1508100
+1144,1144,"Apothecary   Tunnel, 1709",Chaval,CE,2303907
+1145,1145,"Black Swan  Tunnel, 307",Roque Gonzales,RS,4316303
+1147,1147,"Hickory Lane Street, 8391",Dom Feliciano,RS,4306502
+1148,1148,"Chester      Rue, 7346",Guarinos,GO,5209457
+1149,1149,"Bempton   Hill, 5019",Nerópolis,GO,5214507
+1150,1150,"Howard Tunnel, 9727",Guarani de Goiás,GO,5209408
+1151,1151,"Longman   Walk, 6674",Craíbas,AL,2702355
+1152,1152,"Fairfield  Crossroad, 3396",Muitos Capões,RS,4312617
+1153,1153,"Durnford  Boulevard, 2043",Quedas do Iguaçu,PR,4120903
+1154,1154,"Charterhouse  Drive, 3580",Cajari,MA,2102507
+1155,1155,"Cockspur  Rue, 8703",Edéia,GO,5207402
+1156,1156,"Zealand Pass, 962",Canguçu,RS,4304507
+1157,1157,"Betton  Vale, 8586",Santa Rita do Itueto,MG,3159506
+1158,1158,"Bush  Hill, 5763",Mogi Mirim,SP,3530805
+1160,1160,"Canning  Vale, 3498",Santa Lúcia,SP,3546900
+1161,1161,"Bingham   Grove, 6374",Itaueira,PI,2205102
+1162,1162,"Bacton   Alley, 1670",Euclides da Cunha Paulista,SP,3515350
+1163,1163,"Meadow Street, 6964",Itapejara d'Oeste,PR,4111209
+1164,1164,"Birkenhead   Rue, 2601",Ecoporanga,ES,3202108
+1165,1165,"King Pass, 2159",Aurora do Tocantins,TO,1702703
+1166,1166,"Coleman  Grove, 8708",José da Penha,RN,2406007
+1167,1167,"Sherwood  Walk, 1047",Ouricuri,PE,2609907
+1168,1168,"Battersea   Hill, 9986",Mimoso de Goiás,GO,5213053
+1169,1169,"Blendon    Street, 503",Dona Inês,PB,2505709
+1171,1171,"Gate   Hill, 7480",Eunápolis,BA,2910727
+1172,1172,"Abbotswell  Street, 9971",Carapebus,RJ,3300936
+1173,1173,"Empress  Drive, 8133",Axixá,MA,2101103
+1174,1174,"Cam  Tunnel, 5141",Assaré,CE,2301604
+1175,1175,"English   Crossroad, 3881",São Francisco de Paula,RS,4318200
+1176,1176,"Bective  Drive, 2817",Camalaú,PB,2503902
+1177,1177,"East Pass, 5492",Ibicuitinga,CE,2305332
+1178,1178,"Clarks  Crossroad, 8707",Presidente Juscelino,MA,2109205
+1180,1180,"Chart   Walk, 3248",Moreira Sales,PR,4116109
+1181,1181,"Cheltenham  Tunnel, 2175",Fortaleza dos Valos,RS,4308458
+1182,1182,"Boleyn  Way, 3429",Ibirapuitã,RS,4309951
+1183,1183,"Coley  Crossroad, 7889",Choró,CE,2303931
+1184,1184,"Andrews  Vale, 302",Carazinho,RS,4304705
+1185,1185,"Western   Pass, 5592",Massapê do Piauí,PI,2206050
+1186,1186,"Aberavon  Road, 4589",Eldorado,SP,3514809
+1188,1188,"Sheffield Hill, 1068",Marechal Floriano,ES,3203346
+1189,1189,"South Crossroad, 5822",Pedra Branca,CE,2310506
+1190,1190,"Tilloch   Route, 8975",Diamante,PB,2505600
+1191,1191,"Bendmore  Hill, 4526",Bela Vista de Goiás,GO,5203302
+1192,1192,"Black Swan  Vale, 7392",Miranda do Norte,MA,2106755
+1193,1193,"Blake  Hill, 7265",Alto Rio Novo,ES,3200359
+1194,1194,"Elba  Crossroad, 8353",Pedra Azul,MG,3148707
+1195,1195,"Linden Boulevard, 8900",Seabra,BA,2929909
+1196,1196,"Bempton   Grove, 4698",Bom Sucesso,PB,2502300
+1197,1197,"Heritage Way, 6922",Pantano Grande,RS,4313953
+1198,1198,"Wakley   Tunnel, 6283",Salto do Céu,MT,5107750
+1199,1199,"Elgood   Boulevard, 6982",Tarrafas,CE,2313252
+1200,1200,"Bell    Grove, 6952",Rolândia,PR,4122404
+1201,1201,"Abbotswell  Rue, 7606",Forquilhinha,SC,4205456
+1202,1202,"Magnolia Street, 4252",Conceição das Alagoas,MG,3117306
+1203,1203,"Calshot   Route, 6623",Nova Trento,SC,4211504
+1204,1204,"Cecilia  Tunnel, 6887",Jaborá,SC,4208609
+1205,1205,"North Rue, 473",Ijaci,MG,3130408
+1206,1206,"Elba  Road, 3023",Vitória Brasil,SP,3556958
+1207,1207,"Aylward   Rue, 2405",Mendes Pimentel,MG,3141504
+1208,1208,"Cleaver Grove, 2689",Valparaíso de Goiás,GO,5221858
+1209,1209,"Thrale   Lane, 874",Brumado,BA,2904605
+1211,1211,"Thorndike   Street, 641",Cajuri,MG,3110202
+1212,1212,"Arbutus   Grove, 9256",Xambrê,PR,4128807
+1213,1213,"Norfolk  Drive, 8476",Rondon,PR,4122602
+1214,1214,"Battersea   Road, 2854",Ouro Verde,SP,3534807
+1215,1215,"Fair Lane, 8744",Córrego do Ouro,GO,5205703
+1216,1216,"Chantry   Walk, 6348",Apuí,AM,1300144
+1217,1217,"Kilner   Avenue, 9816",Araçu,GO,5201603
+1218,1218,"Bishop   Drive, 6636",Berizal,MG,3106655
+1220,1220,"Blackall   Pass, 2425",Vitor Meireles,SC,4219358
+1221,1221,"Andsell    Street, 5161",Carmópolis,SE,2801504
+1222,1222,"Charterhouse  Pass, 3582",Santa Fé de Minas,MG,3157609
+1223,1223,"Cephas  Lane, 1915",Eugênio de Castro,RS,4307831
+1224,1224,"Durham Street, 4864",Quarto Centenário,PR,4120655
+1225,1225,"Blackheath   Vale, 3418",Barra Mansa,RJ,3300407
+1226,1226,"Beatty  Vale, 567",Mucuri,BA,2922003
+1227,1227,"Bedford  Drive, 2723",Turuçu,RS,4322327
+1229,1229,"Marina  Alley, 8594",Pesqueira,PE,2610905
+1230,1230,"Linden Alley, 9932",Ipuaçu,SC,4207684
+1231,1231,"Baynes  Hill, 3408",Ribeirão Corrente,SP,3543105
+1232,1232,"Carpenter Way, 542",Cruzília,MG,3120805
+1233,1233,"Abbots   Alley, 3676",Campo Alegre,SC,4203303
+1234,1234,"Abbots   Lane, 6402",Iturama,MG,3134400
+1235,1235,"Clarges   Drive, 8437",Carmésia,MG,3113800
+1236,1236,"Charterhouse  Road, 3367",Coremas,PB,2504801
+1237,1237,"Unwin  Road, 4480",Poções,BA,2925105
+1238,1238,"Linden Way, 506",Água Fria,BA,2900405
+1239,1239,"Coal Wharf  Tunnel, 2798",Lucrécia,RN,2406908
+1240,1240,"King Edward  Crossroad, 354",Quebrangulo,AL,2707602
+1241,1241,"Bayberry Grove, 6674",São Pedro da Água Branca,MA,2111532
+1242,1242,"Viscount   Alley, 5115",Monte Aprazível,SP,3531407
+1243,1243,"Bendmore  Street, 6685",Cruzália,SP,3513306
+1244,1244,"Ellerslie Lane, 9381",Materlândia,MG,3140605
+1245,1245,"Thurloe   Alley, 7113",Edéia,GO,5207402
+1246,1246,"Angrave    Tunnel, 3104",Rosário,MA,2109601
+1247,1247,"Clyde Route, 2617",Imbuia,SC,4207403
+1248,1248,"Linda Lane Drive, 8259",Granja,CE,2304707
+1249,1249,"Bicknell  Walk, 8423",Candeias,BA,2906501
+1251,1251,"East Lane, 8218",Mococa,SP,3530508
+1252,1252,"Bempton   Drive, 5970",Baixa Grande do Ribeiro,PI,2201150
+1253,1253,"Blenkarne  Drive, 5225",Atalaia,AL,2700409
+1254,1254,"St. Johs  Route, 7311",Aceguá,RS,4300034
+1255,1255,"Canon Tunnel, 6139",Ribeirão Bonito,SP,3542909
+1256,1256,"Collins  Road, 105",Cajuru,SP,3509403
+1257,1257,"Tiptree   Way, 6786",Formosa,GO,5208004
+1258,1258,"Timothy  Tunnel, 2532",Regeneração,PI,2208809
+1259,1259,"Jackson Pass, 4765",Monções,SP,3531001
+1260,1260,"Belmore  Avenue, 300",Redentora,RS,4315404
+1261,1261,"Fawn Road, 7261",Bauru,SP,3506003
+1262,1262,"Bermondsey    Pass, 4141",Moju,PA,1504703
+1263,1263,"Chandos  Drive, 1609",Maripá de Minas,MG,3140209
+1265,1265,"Vincent  Boulevard, 7603",Gurinhatã,MG,3129103
+1266,1266,"Balfour    Crossroad, 2690",Itá,SC,4208005
+1267,1267,"Carlton  Avenue, 6686",Jardim,CE,2307106
+1268,1268,"Endsleigh  Street, 2991",Brejo de Areia,MA,2102150
+1269,1269,"Vincent  Rue, 2556",Cansanção,BA,2906808
+1270,1270,"Virginia Street, 7456",Jaguaquara,BA,2917607
+1271,1271,"Bacton   Drive, 4546",Triunfo Potiguar,RN,2414456
+1272,1272,"Bond Walk, 1421",Moiporá,GO,5213400
+1273,1273,"Abbots   Crossroad, 5355",Cruzália,SP,3513306
+1274,1274,"Queensberry  Rue, 7460",Unaí,MG,3170404
+1275,1275,"Apostle  Tunnel, 1170",Amapá do Maranhão,MA,2100550
+1276,1276,"Oxford Road, 7516",Coronel Ezequiel,RN,2402808
+1277,1277,"Chatsworth  Road, 1694",Matões,MA,2106607
+1279,1279,"Fairholt   Hill, 7694",São José do Jacuípe,BA,2929370
+1280,1280,"Commercial  Pass, 7596",Pindorama do Tocantins,TO,1717008
+1281,1281,"Parkfield  Walk, 2138",Junqueiro,AL,2704005
+1282,1282,"Timothy  Rue, 5741",Guaraci,PR,4109203
+1283,1283,"Canon Crossroad, 7811",Guapimirim,RJ,3301850
+1284,1284,"Longmoore   Walk, 6162",Presidente Médici,MA,2109239
+1286,1286,"Blake  Crossroad, 6702",Iguaraçu,PR,4110003
+1287,1287,"Burton  Lane, 4471",Vila Nova do Piauí,PI,2211605
+1288,1288,"Black Swan  Grove, 3596",Alegria,RS,4300455
+1289,1289,"Viscount   Alley, 6487",Santo Ângelo,RS,4317509
+1290,1290,"St. Jamess  Lane, 2567",São Jorge,RS,4318440
+1291,1291,"Black Friars   Lane, 5493",Segredo,RS,4320263
+1292,1292,"Glenwood Tunnel, 2191",Florânia,RN,2403806
+1293,1293,"Oxford Vale, 4329",Urupema,SC,4218954
+1294,1294,"Bicknell  Grove, 2052",Novo Itacolomi,PR,4117297
+1297,1297,"Capeners  Pass, 412",Capelinha,MG,3112307
+1298,1298,"Aspen Boulevard, 5742",Alpinópolis,MG,3101904
+1299,1299,"Dyott   Route, 3930",Feijó,AC,1200302
+1300,1300,"St. Jamess  Street, 6046",Tapiramutá,BA,2931301
+1301,1301,"Littlebury  Road, 1973",Perdões,MG,3149903
+1302,1302,"Ashley Rue, 4461",Ubaitaba,BA,2932200
+,,,,,
+1303,1303,"Cingworth  Crossroad, 1117",Forquilha,CE,2304350
+1304,1304,"Calvin   Walk, 2075",Martinópole,CE,2307908
+1305,1305,"Clavell   Boulevard, 8806",Terenos,MS,5008008
+1306,1306,"Carlton  Vale, 3038",Miravânia,MG,3142254
+1307,1307,"Virginia Vale, 1221",Marcos Parente,PI,2206001
+1308,1308,"Endsleigh  Way, 8778",Elísio Medrado,BA,2910305
+1310,1310,"Vintners  Hill, 1627",Carandaí,MG,3113206
+1311,1311,"Magnolia Road, 8875",Panamá,GO,5216007
+1312,1312,"Oxford Pass, 5278",Balneário Barra do Sul,SC,4202057
+1313,1313,"Archery  Avenue, 5493",Paranaíba,MS,5006309
+1314,1314,"Chandos  Boulevard, 400",Matina,BA,2921054
+1315,1315,"Chestnut  Vale, 6321",Inhacorá,RS,4310413
+1316,1316,"Chestnut  Vale, 3984",Pedras de Fogo,PB,2511202
+1317,1317,"Blackheath   Crossroad, 113",Nhandeara,SP,3532603
+1318,1318,"Coleman  Alley, 1474",Regente Feijó,SP,3542404
+1319,1319,"Lexington Alley, 8657",Tianguá,CE,2313401
+1320,1320,"Clissold  Alley, 7588",Pio IX,PI,2208205
+1321,1321,"Camelot   Walk, 5417",Santa Luz,PI,2209302
+1322,1322,"Babmaes    Vale, 7405",Aracitaba,MG,3103306
+1323,1323,"Bedford  Drive, 4286",Sales,SP,3544806
+1324,1324,"Queen Caroline   Tunnel, 6870",Antônio Dias,MG,3103009
+1325,1325,"Cardinal Lane, 7315",Tucano,BA,2931905
+1326,1326,"Virginia Road, 5660",Três Cachoeiras,RS,4321667
+1327,1327,"Cheltenham  Walk, 2675",Cristais Paulista,SP,3513207
+1328,1328,"Chantry   Way, 8834",Serranópolis,GO,5220504
+1329,1329,"Clere  Street, 3350",Serraria,PB,2515906
+1331,1331,"Heritage Lane, 5269",Rio das Ostras,RJ,3304524
+1332,1332,"Longman   Hill, 9903",Água Limpa,GO,5200209
+1333,1333,"Spruce Drive, 6567",Montividiu do Norte,GO,5213772
+1334,1334,"Meadow Hill, 1262",São Manoel do Paraná,PR,4125555
+1335,1335,"Charterhouse  Boulevard, 9695",Coronel Freitas,SC,4204400
+1336,1336,"Kingly  Alley, 3818",Entre Rios,BA,2910503
+1338,1338,"Edwin   Alley, 352",Eirunepé,AM,1301407
+1339,1339,"Queen Rue, 7610",Nova Olinda do Norte,AM,1303106
+1340,1340,"Becher  Way, 3243",Puxinanã,PB,2512408
+1341,1341,"Becher  Pass, 1370",Espírito Santo,RN,2403509
+1342,1342,"Pine Route, 4785",Veranópolis,RS,4322806
+1343,1343,"Sundown Route, 3930",Abre Campo,MG,3100302
+1344,1344,"Cliff  Crossroad, 4916",Muitos Capões,RS,4312617
+1345,1345,"Camdale  Lane, 3653",Reginópolis,SP,3542503
+1346,1346,"Fairbairn  Vale, 2404",Siqueira Campos,PR,4126603
+1347,1347,"Kinglake  Way, 6134",Sede Nova,RS,4320230
+1348,1348,"Camelot   Vale, 3535",Juruena,MT,5105176
+1349,1349,"Glenwood Pass, 8878",Marituba,PA,1504422
+1350,1350,"Vine  Boulevard, 9308",São Lourenço do Sul,RS,4318804
+1351,1351,"St. Pauls  Lane, 4123",Mogi das Cruzes,SP,3530607
+1352,1352,"Elba  Route, 2701",Santo Antônio das Missões,RS,4317707
+1353,1353,"Chart   Crossroad, 514",Jacobina do Piauí,PI,2205151
+1354,1354,"Paris   Vale, 5164",Varjota,CE,2313955
+1355,1355,"Dyott   Crossroad, 7225",Nova Olinda do Norte,AM,1303106
+1356,1356,"Queen Caroline   Hill, 9808",Ibarama,RS,4309753
+1357,1357,"Bennett  Crossroad, 3889",Divina Pastora,SE,2802007
+1358,1358,"Carlton  Hill, 7455",Carinhanha,BA,2907103
+1359,1359,"Garfield Walk, 501",Paulo Frontin,PR,4118709
+1360,1360,"East Boulevard, 3844",Governador Newton Bello,MA,2104651
+1361,1361,"Wake  Boulevard, 2429",Santa Teresa,ES,3204609
+1362,1362,"Battis   Avenue, 2192",Ibicuí,BA,2912301
+1363,1363,"Collins  Hill, 7022",Arambaré,RS,4300851
+1364,1364,"Queen Caroline   Pass, 5149",Fortaleza,CE,2304400
+1365,1365,"Canal  Hill, 198",São Francisco,SE,2806909
+1367,1367,"Birkin   Crossroad, 7713",Dilermando de Aguiar,RS,4306379
+1368,1368,"Under  Vale, 3807",Quixadá,CE,2311306
+1369,1369,"Chapel  Lane, 4111",Icém,SP,3519808
+1370,1370,"Archery  Boulevard, 5896",Frei Miguelinho,PE,2605806
+1371,1371,"Bicknell  Hill, 4202",Sítio do Quinto,BA,2930766
+1372,1372,"Church Hill, 3492",Riacho Frio,PI,2208858
+1373,1373,"Timber   Grove, 3636",Palmeirante,TO,1715705
+1374,1374,"Amwell    Rue, 4800",Ruy Barbosa,RN,2411106
+1375,1375,"Cavell   Grove, 4919",Alvorada,RS,4300604
+1376,1376,"Lonsdale  Hill, 609",Taquarussu,MS,5007976
+1377,1377,"Aberavon  Lane, 6156",Valença do Piauí,PI,2211308
+1379,1379,"Burton  Drive, 175",Porto Murtinho,MS,5006903
+1380,1380,"Rosewood Tunnel, 9441",Itacarambi,MG,3132107
+1381,1381,"Thomas  Grove, 2666",Palmeiras,BA,2923506
+1382,1382,"Zealand Alley, 3395",Catuji,MG,3115458
+1383,1383,"Adderley   Street, 7728",Materlândia,MG,3140605
+1384,1384,"Virgil   Vale, 508",Ipupiara,BA,2914109
+1385,1385,"Buttonwood Walk, 8086",Barra do Mendes,BA,2903003
+1386,1386,"Catherine  Road, 9064",Saudade do Iguaçu,PR,4126272
+1387,1387,"Dunton  Grove, 7803",Capitólio,MG,3112802
+1388,1388,"Erindale Street, 8601",Água Clara,MS,5000203
+1389,1389,"Underwood  Drive, 809",Capim Grosso,BA,2906873
+1390,1390,"Rosewood Pass, 5477",Gentio do Ouro,BA,2911303
+1391,1391,"Empress  Boulevard, 6339",Morro Reuter,RS,4312476
+1393,1393,"West Rue, 5511",Mutum,MG,3144003
+1394,1394,"Berriman  Crossroad, 6653",Frei Lagonegro,MG,3126950
+1395,1395,"South Vale, 8528",Camacho,MG,3110400
+1396,1396,"Durham Walk, 3507",Piripiri,PI,2208403
+1397,1397,"Blake  Road, 4698",Ibicaraí,BA,2912103
+1398,1398,"Becher  Road, 2817",São Gonçalo do Rio Preto,MG,3125507
+1399,1399,"Camden  Hill, 1507",Lajinha,MG,3137700
+1401,1401,"Woodland Vale, 2864",Botumirim,MG,3108503
+1402,1402,"Railroad Rue, 3133",Lajeado Grande,SC,4209458
+1403,1403,"Bush  Crossroad, 2669",São Ludgero,SC,4217006
+1405,1405,"Woodland Rue, 4570",Linha Nova,RS,4311643
+1406,1406,"King Edward  Hill, 3458",Presidente Olegário,MG,3153400
+1407,1407,"Oxford Lane, 7450",Caieiras,SP,3509007
+1408,1408,"Meadow Grove, 1881",Coronel José Dias,PI,2202851
+1409,1409,"Liverpool  Street, 5702",Cerro Grande,RS,4305157
+1410,1410,"Blake  Grove, 4555",Condeúba,BA,2908705
+1411,1411,"Chatfield  Walk, 8857",Ouro Branco,AL,2706109
+1412,1412,"Camdenhurst   Route, 5969",Iguatu,PR,4110052
+1413,1413,"Ely  Walk, 4152",Nova Aliança,SP,3532801
+1414,1414,"Clarges   Way, 7910",Calçado,PE,2603306
+1415,1415,"Aspen Crossroad, 3680",Bom Jesus do Oeste,SC,4202578
+1416,1416,"Apostle  Tunnel, 842",Itacoatiara,AM,1301902
+1417,1417,"Durweston   Crossroad, 580",Camocim de São Félix,PE,2603504
+1418,1418,"Apostle  Crossroad, 7991",Guaraciaba,SC,4206405
+1419,1419,"Collins  Tunnel, 4554",Taquaruçu do Sul,RS,4321329
+1420,1420,"Belmont Park Hill, 7730",São Ludgero,SC,4217006
+1422,1422,"Burton  Crossroad, 5202",São Luiz,RR,1400605
+1423,1423,"Tilloch   Alley, 3439",Bandeirantes,MS,5001508
+1425,1425,"Badric  Walk, 6832",Nina Rodrigues,MA,2107209
+1426,1426,"Ashley Street, 4420",Resplendor,MG,3154309
+1427,1427,"Gautrey  Drive, 3242",Pardinho,SP,3536109
+1428,1428,"Liverpool  Lane, 6175",Cândido Sales,BA,2906709
+1429,1429,"Battis   Alley, 1376",Carrapateira,PB,2504108
+1430,1430,"Badric  Lane, 5849",Santana do Acaraú,CE,2312007
+1431,1431,"Kimberley  Street, 8568",Santa Cruz dos Milagres,PI,2209153
+1432,1432,"Dutton   Street, 2447",São Valentim do Sul,RS,4319711
+1433,1433,"Chart   Vale, 7395",Arapuã,PR,4101655
+1434,1434,"Elia   Avenue, 6066",Messias,AL,2705200
+1435,1435,"Carltoun   Way, 1335",Vargem Grande do Rio Pardo,MG,3170651
+1436,1436,"Queensberry  Street, 6514",Xaxim,SC,4219705
+1437,1437,"Tilson  Boulevard, 868",Cafelândia,PR,4103453
+1438,1438,"Bedford  Drive, 3379",Oratórios,MG,3145851
+1439,1439,"Coalecroft  Street, 4068",São João de Pirabas,PA,1507474
+1440,1440,"Chatsworth  Crossroad, 4571",Espírito Santo,RN,2403509
+1441,1441,"Victoria  Street, 6198",Santana,AP,1600600
+1442,1442,"Sheraton   Way, 584",Mimoso de Goiás,GO,5213053
+1443,1443,"Adelaide  Street, 1720",Sumidouro,RJ,3305703
+1444,1444,"Cave   Boulevard, 1775",Lago dos Rodrigues,MA,2105948
+1445,1445,"Cadogan  Drive, 820",Boa Esperança,ES,3201001
+1446,1446,"Bendall   Avenue, 890",Atalaia do Norte,AM,1300201
+1447,1447,"Belfort  Rue, 1149",Garopaba,SC,4205704
+1448,1448,"Bolingbroke  Grove, 3362",Pedro Afonso,TO,1716505
+1449,1449,"Hickory   Road, 5857",Pé de Serra,BA,2924058
+1450,1450,"Canon Street, 5036",São Félix do Piauí,PI,2209609
+1451,1451,"Woodland Street, 7279",Algodão de Jandaíra,PB,2500577
+1452,1452,"Carlton  Lane, 8784",Areia Branca,RN,2401107
+1453,1453,"Unwin  Road, 1104",Cristalina,GO,5206206
+1454,1454,"Boldero   Walk, 3183",Planalto,RS,4314704
+1455,1455,"Jackson Boulevard, 2193",Vitor Meireles,SC,4219358
+1456,1456,"Blore  Walk, 7402",Nossa Senhora das Graças,PR,4116406
+1457,1457,"Garfield Alley, 3917",Salitre,CE,2311959
+1460,1460,"Fairfield  Crossroad, 5035",Santa Helena,PR,4123501
+1461,1461,"Magnolia Boulevard, 646",Itatiba do Sul,RS,4310702
+1462,1462,"Geary   Street, 557",Apiacás,MT,5100805
+1463,1463,"Amwell    Lane, 3694",Lindóia do Sul,SC,4209854
+1464,1464,"Babmaes    Street, 3853",Alvorada D'Oeste,RO,1100346
+1465,1465,"Calverley  Road, 4005",Hidrolândia,GO,5209705
+1466,1466,"Glenwood Lane, 2619",Carlos Gomes,RS,4304853
+1467,1467,"St. Johs  Crossroad, 2194",Pantano Grande,RS,4313953
+1468,1468,"Sherlock   Vale, 9942",Entre Rios do Oeste,PR,4107538
+1469,1469,"Gathorne   Crossroad, 6905",Buritis,MG,3109303
+1470,1470,"Chancellor  Tunnel, 8743",Onda Verde,SP,3534005
+1471,1471,"Battersea   Hill, 1643",Barra do Jacaré,PR,4102703
+1472,1472,"Bagford   Hill, 9169",Aurora,CE,2301703
+1473,1473,"Glenwood Way, 2240",Mato Queimado,RS,4312179
+1474,1474,"Fawn Pass, 1710",Moema,MG,3142403
+1475,1475,"Chelsea Manor  Alley, 8369",Cassilândia,MS,5002902
+1476,1476,"Catherine  Alley, 3695",Taió,SC,4217808
+1477,1477,"Beechen  Crossroad, 5368",Curral de Cima,PB,2505279
+1478,1478,"Camdenhurst   Rue, 7417",Dois Riachos,AL,2702504
+1479,1479,"Westbourne Avenue, 5257",Maracaçumé,MA,2106326
+1480,1480,"Bendall   Hill, 7101",Ascurra,SC,4201703
+1481,1481,"Liverpool  Route, 8111",Regente Feijó,SP,3542404
+1482,1482,"Thomas More   Street, 6926",Espigão D'Oeste,RO,1100098
+1483,1483,"Coal Wharf  Rue, 568",Milagres do Maranhão,MA,2106672
+1484,1484,"Bush  Alley, 9671",Pedro Gomes,MS,5006408
+1485,1485,"Chantry   Vale, 5533",Itanhém,BA,2916005
+1486,1486,"Becklow  Tunnel, 8897",Rio Largo,AL,2707701
+1487,1487,"Collins  Walk, 922",Damianópolis,GO,5206701
+1488,1488,"Victoria  Road, 8905",Conceição do Tocantins,TO,1705607
+1490,1490,"Blackheath  Route, 8995",Forquilha,CE,2304350
+1491,1491,"Glenwood Way, 4043",Jacarezinho,PR,4111803
+1492,1492,"Egerton  Rue, 2527",Coqueiro Baixo,RS,4305835
+1493,1493,"Cheltenham  Avenue, 7613",Pontal do Paraná,PR,4119954
+1494,1494,"Coborn  Grove, 5825",Cruz do Espírito Santo,PB,2504900
+1495,1495,"Beaconsfield  Crossroad, 9141",Passabém,MG,3147501
+1498,1498,"Caxton  Route, 9504",Novo Jardim,TO,1715259
+1499,1499,"Marischal  Road, 5228",Jaciara,MT,5104807
+1500,1500,"Thoresby   Walk, 8112",Santa Tereza de Goiás,GO,5219605
+1501,1501,"St. Johs  Lane, 3199",Pimenteiras,PI,2208106
+1502,1502,"Carol   Boulevard, 6488",Taboleiro Grande,RN,2413805
+1503,1503,"Bayberry Alley, 603",Flores de Goiás,GO,5207907
+1504,1504,"Underwood  Avenue, 4270",Ingá,PB,2506806
+1505,1505,"Sherlock   Tunnel, 7791",Adamantina,SP,3500105
+1506,1506,"Baynes  Drive, 3644",Maurilândia do Tocantins,TO,1712801
+1507,1507,"Marina  Tunnel, 818",Roseira,SP,3544301
+1508,1508,"Lonsdale  Tunnel, 867",Marinópolis,SP,3529104
+1509,1509,"Arthur  Grove, 4725",Tupã,SP,3555000
+1511,1511,"Parkfield  Lane, 6271",Itatiba do Sul,RS,4310702
+1512,1512,"Camden  Crossroad, 7550",Natércia,MG,3144409
+1513,1513,"Blackheath   Road, 6598",Itapema,SC,4208302
+1515,1515,"Bede  Boulevard, 4371",Piquet Carneiro,CE,2310902
+1516,1516,"Cockspur  Way, 612",Porto Esperidião,MT,5106828
+1517,1517,"Empress  Route, 3207",Matos Costa,SC,4210704
+1518,1518,"Bolingbroke  Lane, 8128",Palma,MG,3146701
+1519,1519,"Carol   Hill, 1058",Florestópolis,PR,4108007
+1520,1520,"Under  Tunnel, 2396",Treze Tílias,SC,4218509
+1521,1521,"Ampton  Street, 6113",Terra Rica,PR,4127304
+1522,1522,"Birkin   Route, 9068",Santa Bárbara do Monte Verde,MG,3157278
+1523,1523,"Timothy  Vale, 390",Pardinho,SP,3536109
+1524,1524,"Sherlock   Street, 5892",Itaguaçu da Bahia,BA,2915353
+1525,1525,"Carnegie   Walk, 3025",Nova Santa Rita,PI,2207959
+1526,1526,"Angel  Avenue, 4692",Delfim Moreira,MG,3121100
+1527,1527,"West Boulevard, 3895",Laranjeiras,SE,2803609
+1528,1528,"Collins  Road, 5749",São Lourenço do Sul,RS,4318804
+1529,1529,"Yorkshire  Tunnel, 1329",Paulista,PB,2510907
+1530,1530,"Battis   Crossroad, 5325",Monte Alegre,PA,1504802
+1531,1531,"Oxford Alley, 9358",Astolfo Dutra,MG,3104601
+1532,1532,"Chelsea Manor  Route, 3531",Itambé,BA,2915809
+1533,1533,"Caroline  Grove, 4323",Paranavaí,PR,4118402
+1534,1534,"Lincoln Road, 5498",Almino Afonso,RN,2400604
+1535,1535,"Clyde Grove, 8759",Jordânia,MG,3136504
+1536,1536,"Norland  Street, 9776",Bandeirante,SC,4202081
+1537,1537,"Dyott   Crossroad, 7032",Brejinho,RN,2401800
+1538,1538,"Angela   Rue, 4931",Ângulo,PR,4101150
+1539,1539,"King Walk, 3438",Guarani das Missões,RS,4309506
+1540,1540,"Collent   Drive, 7789",Santo Expedito,SP,3548302
+1541,1541,"Camberwell  Avenue, 70",Marataízes,ES,3203320
+1542,1542,"Wakley   Alley, 8763",Guaratuba,PR,4109609
+1543,1543,"Bloomsbury  Boulevard, 9720",Ipanema,MG,3131208
+1544,1544,"Queen Avenue, 552",São Valentim,RS,4319703
+1545,1545,"Bacton   Street, 4564",Altos,PI,2200400
+1546,1546,"Westbourne Tunnel, 5865",Guaiúba,CE,2304954
+1547,1547,"Blue Anchor  Drive, 6772",Paraíso do Norte,PR,4118006
+1548,1548,"Blomfield  Rue, 3849",Coluna,MG,3116803
+1549,1549,"Dyott   Grove, 8073",Itaguajé,PR,4110904
+1551,1551,"Unwin  Alley, 827",Bom Jesus do Sul,PR,4103156
+1552,1552,"Hampden  Vale, 2813",Brejo de Areia,MA,2102150
+1553,1553,"Clifton  Crossroad, 7664",Timbé do Sul,SC,4218103
+1554,1554,"Earl Rise Grove, 1080",Aiquara,BA,2900603
+1555,1555,"Abbots   Walk, 7899",Paquetá,PI,2207553
+1556,1556,"Cloth  Rue, 6781",Gameleira,PE,2605905
+1557,1557,"Belmont Park Road, 8247",Cravinhos,SP,3513108
+1558,1558,"Dunton  Hill, 5794",Atalaia,AL,2700409
+1559,1559,"Vincent  Pass, 3561",Araras,SP,3503307
+1560,1560,"Rail Lane, 846",Ribeirão do Sul,SP,3543204
+1561,1561,"Eldon  Road, 2363",Pinheiral,RJ,3303955
+1562,1562,"Gatonby   Crossroad, 8367",Resende,RJ,3304201
+1563,1563,"Cavell   Walk, 6874",Baía Formosa,RN,2401404
+1566,1566,"Chamberlain  Way, 3824",Pedro Leopoldo,MG,3149309
+1567,1567,"Thoresby   Walk, 3358",Alumínio,SP,3501152
+1568,1568,"Maple Tunnel, 8569",Paial,SC,4211876
+1569,1569,"Becklow  Vale, 1743",Bela Vista do Paraíso,PR,4102802
+1570,1570,"Victorian  Drive, 3517",Peri Mirim,MA,2108405
+1571,1571,"Heritage Road, 9007",Januária,MG,3135209
+1572,1572,"Birkenhead   Street, 2443",Ipiranga do Norte,MT,5104526
+1573,1573,"Parkfield  Route, 5162",Nova Olinda,TO,1714880
+1575,1575,"Gathorne   Hill, 6147",Siqueira Campos,PR,4126603
+1576,1576,"Wadham  Street, 4608",Andorinha,BA,2901353
+1577,1577,"Camera  Street, 2536",Pedro Gomes,MS,5006408
+1578,1578,"Adams  Drive, 2946",Palmeirais,PI,2207504
+1579,1579,"Commercial  Rue, 5245",Ouro Verde,SC,4211850
+1580,1580,"Blenkarne  Rue, 5856",Castilho,SP,3511003
+1581,1581,"St. Pauls  Tunnel, 6146",Flor do Sertão,SC,4205357
+1582,1582,"Union  Crossroad, 8487",Três Forquilhas,RS,4321832
+1583,1583,"Ellerslie Road, 2440",Joanésia,MG,3136108
+1584,1584,"Thomas More   Drive, 1958",Araújos,MG,3103900
+1585,1585,"Udall   Grove, 8067",Abaré,BA,2900207
+1586,1586,"Chapel  Route, 8620",Ciríaco,RS,4305504
+1587,1587,"Zealand Lane, 8774",Matupá,MT,5105606
+1588,1588,"Westbourne Pass, 7101",Pinhão,SE,2805208
+1589,1589,"Coley  Road, 4863",Fagundes,PB,2506103
+1590,1590,"Cleveland  Crossroad, 4192",Várzea Nova,BA,2933158
+1591,1591,"Catherine  Street, 9923",Cachoeira Alta,GO,5204102
+1592,1592,"Victoria  Boulevard, 5396",São Lourenço,MG,3163706
+1593,1593,"Walnut Lane, 4530",Casa Grande,MG,3114907
+1594,1594,"Waite  Boulevard, 5087",São Pedro do Iguaçu,PR,4125753
+1595,1595,"Fair Road, 7128",Tururu,CE,2313559
+1597,1597,"Callcott   Grove, 1046",Abreulândia,TO,1700251
+1599,1599,"Abourne   Hill, 5619",Arari,MA,2101004
+1600,1600,"Aspen Route, 5733",Herculândia,SP,3519006
+1601,1601,"Rosewood Tunnel, 265",Brasilândia,MS,5002308
+1602,1602,"Longmoore   Drive, 4539",Neópolis,SE,2804409
+1603,1603,"Camley   Crossroad, 3217",Santa Luzia D'Oeste,RO,1100296
+1604,1604,"Abbotswell  Road, 2693",Tavares,PB,2516607
+1605,1605,"Vintners  Tunnel, 688",Sucupira do Riachão,MA,2111953
+1606,1606,"Thomas  Way, 1516",Campo Mourão,PR,4104303
+1607,1607,"Charnwood   Crossroad, 5346",Jaboticatubas,MG,3134608
+1608,1608,"Cable    Road, 3688",Formiga,MG,3126109
+1609,1609,"Aspen Road, 1005",Costa Rica,MS,5003256
+1610,1610,"Kingly  Route, 8684",Belo Horizonte,MG,3106200
+1611,1611,"Thurloe   Alley, 6542",Figueira,PR,4107751
+1612,1612,"Caxton  Tunnel, 2003",Cruz Machado,PR,4106803
+1613,1613,"Westbourne Grove, 3242",Faria Lemos,MG,3125309
+1614,1614,"Geary   Route, 3412",Costa Rica,MS,5003256
+1615,1615,"Elf  Avenue, 355",Ijaci,MG,3130408
+1616,1616,"Chapel  Boulevard, 4672",Matões,MA,2106607
+1617,1617,"Ernest  Rue, 6467",Japurá,PR,4112405
+1618,1618,"Betton  Rue, 8010",Itajobi,SP,3521903
+1619,1619,"Betton  Way, 2503",Nova Olinda,CE,2309201
+1620,1620,"English   Grove, 3540",Neópolis,SE,2804409
+1621,1621,"Wake  Alley, 2286",Itapé,BA,2916203
+1622,1622,"Blackheath   Hill, 7772",Sete Quedas,MS,5007703
+1623,1623,"Vintners  Way, 7443",Taquaral de Goiás,GO,5221007
+1624,1624,"Fair Boulevard, 2597",Fortaleza de Minas,MG,3126307
+1625,1625,"Bempton   Crossroad, 6246",Porto Alegre do Piauí,PI,2208551
+1626,1626,"Amwell    Street, 2190",Mundo Novo,GO,5214051
+1627,1627,"Canon Road, 2515",Iporã do Oeste,SC,4207650
+1628,1628,"Wadham  Crossroad, 6711",Álvares Florence,SP,3501202
+1629,1629,"Sherwood  Walk, 4069",Santa Leopoldina,ES,3204500
+1630,1630,"York Boulevard, 8085",Itaboraí,RJ,3301900
+1631,1631,"Belmore  Way, 2566",Nova Independência,SP,3533205
+1632,1632,"Cheltenham  Hill, 2184",Lins,SP,3527108
+1633,1633,"Hamilton  Way, 3670",Parauapebas,PA,1505536
+1634,1634,"Bede  Drive, 3858",Lucrécia,RN,2406908
+1636,1636,"Coalecroft  Walk, 5224",Caruaru,PE,2604106
+1637,1637,"Oxford Route, 7470",Novo Santo Antônio,MT,5106315
+1638,1638,"Balfour    Hill, 9038",Marabá,PA,1504208
+1639,1639,"Shepherds  Crossroad, 8834",Capitão de Campos,PI,2202406
+1640,1640,"Clifton  Drive, 583",Rio Claro,RJ,3304409
+1641,1641,"Carnegie   Crossroad, 1986",Santa Fé,PR,4123402
+1642,1642,"Vine  Rue, 9587",Tijucas,SC,4218004
+1643,1643,"Chart   Drive, 5230",Santo Anastácio,SP,3547700
+1644,1644,"Archery  Lane, 5700",Felício dos Santos,MG,3125408
+1645,1645,"Bloomsbury  Way, 5739",Águas Lindas de Goiás,GO,5200258
+1646,1646,"Gavel   Tunnel, 8698",Formigueiro,RS,4308409
+1647,1647,"Gate   Drive, 3679",São Vicente,SP,3551009
+1648,1648,"Howard Grove, 9718",Lagoinha do Piauí,PI,2205540
+1649,1649,"Black Swan  Avenue, 3755",Cristalândia,TO,1706100
+1650,1650,"Yoakley Crossroad, 4823",Cruz Alta,RS,4306106
+1651,1651,"Linda Lane Lane, 2754",Ruy Barbosa,BA,2927200
+1652,1652,"Jackson Alley, 4201",Cerro Azul,PR,4105201
+1655,1655,"Andsell    Rue, 4777",Pindoretama,CE,2310852
+1656,1656,"Bective  Vale, 7370",Pariquera-Açu,SP,3536208
+1657,1657,"Parkfield  Tunnel, 8670",Seara,SC,4217501
+1659,1659,"Fieldstone Avenue, 4510",São Luís do Curu,CE,2312601
+1661,1661,"Union  Pass, 5340",Romelândia,SC,4215208
+1662,1662,"Bellenden   Way, 9858",Santana da Ponte Pensa,SP,3547205
+1664,1664,"Becklow  Road, 1784",Riacho de Santana,RN,2410801
+1665,1665,"Geary   Road, 8",Colinas,MA,2103505
+1666,1666,"Cedarne  Alley, 7589",Montauri,RS,4312351
+1667,1667,"Sherlock   Vale, 8956",Parintins,AM,1303403
+1668,1668,"Bliss  Walk, 5495",Ibititá,BA,2913101
+1669,1669,"Cavaye  Lane, 5047",Santa Rita,PB,2513703
+1670,1670,"Eldon  Road, 2006",Itapipoca,CE,2306405
+1671,1671,"Chambers  Vale, 7581",Paranã,TO,1716208
+1672,1672,"Union  Road, 903",Monte do Carmo,TO,1713601
+1673,1673,"Berry  Avenue, 4665",Córrego Fundo,MG,3119955
+1674,1674,"Camdenhurst   Tunnel, 3416",Água Doce do Norte,ES,3200169
+1675,1675,"Clavell   Tunnel, 3380",Nova Ramada,RS,4313334
+1676,1676,"Arlington  Route, 7675",Lagoão,RS,4311254
+1677,1677,"Woodland Tunnel, 907",Manhuaçu,MG,3139409
+1678,1678,"Duthie   Walk, 895",Salinas da Margarida,BA,2927309
+1679,1679,"Durweston   Boulevard, 3392",Salgado de São Félix,PB,2513109
+1680,1680,"Carolina  Route, 3188",Lagoa Grande,PE,2608750
+1681,1681,"Queen Hill, 7233",Riachão,MA,2109502
+1683,1683,"Shepherds  Street, 7046",Cachoeira do Sul,RS,4303004
+1684,1684,"Bingham   Route, 674",Nossa Senhora de Lourdes,SE,2804706
+1686,1686,"Thomas Doyle   Street, 9975",Ourizona,PR,4117404
+1687,1687,"Angrave    Alley, 8057",Avanhandava,SP,3504404
+1688,1688,"Arlington  Rue, 6791",João Costa,PI,2205359
+1689,1689,"Bermondsey    Avenue, 6390",Pombos,PE,2611309
+1690,1690,"Sheffield Rue, 4202",Xapuri,AC,1200708
+1691,1691,"Collingwood  Tunnel, 9052",Boa Vista do Buricá,RS,4302204
+1692,1692,"Cheltenham  Drive, 5574",Corupá,SC,4204509
+1693,1693,"Cardinal Way, 7796",Junco do Maranhão,MA,2105658
+1694,1694,"Billing  Road, 8993",Passa e Fica,RN,2409100
+1696,1696,"Virginia Route, 3089",Piraí do Sul,PR,4119400
+1697,1697,"Chester  Lane, 450",Prudente de Morais,MG,3153608
+1698,1698,"Blackall   Alley, 3428",Granjeiro,CE,2304806
+1699,1699,"Collingwood  Drive, 5020",Reriutaba,CE,2311702
+1701,1701,"Badric  Vale, 1897",Nova Mamoré,RO,1100338
+1702,1702,"Cato   Lane, 9846",Antônio Carlos,MG,3102902
+1703,1703,"Catherine  Hill, 762",Santo Antônio do Monte,MG,3160405
+1704,1704,"Norfolk  Street, 2637",Santana de Mangueira,PB,2513505
+1705,1705,"Cleveland  Vale, 749",Rio Grande,RS,4315602
+1706,1706,"Vine  Vale, 31",Natércia,MG,3144409
+1707,1707,"Coalecroft  Vale, 4109",Dona Emma,SC,4205100
+1708,1708,"Belmore  Hill, 245",Monteirópolis,AL,2705408
+1709,1709,"Adderley   Pass, 2687",Vermelho Novo,MG,3171154
+1710,1710,"Lake Rue, 2169",Belém,AL,2700805
+1711,1711,"Clissold  Route, 9297",Itaipulândia,PR,4110953
+1712,1712,"Camberwell  Street, 9177",São Pedro do Suaçuí,MG,3164100
+1713,1713,"Kingly  Hill, 690",Urucuia,MG,3170529
+1714,1714,"Bedford  Route, 7640",Aguanil,MG,3100807
+1715,1715,"Bekesbourne   Vale, 6632",Itaiópolis,SC,4208104
+1716,1716,"Blenkarne  Boulevard, 8043",Porto Barreiro,PR,4120150
+1717,1717,"Cleaver Drive, 98",Curuçá,PA,1502905
+1718,1718,"Lake Route, 6393",Licínio de Almeida,BA,2919405
+1719,1719,"Duthie   Pass, 1392",Itaúna,MG,3133808
+1720,1720,"Edwin   Walk, 3303",Calçado,PE,2603306
+1721,1721,"Cliffords  Rue, 4824",Lambari,MG,3137809
+1723,1723,"Walnut Pass, 3284",Primeira Cruz,MA,2109403
+1724,1724,"Sundown Lane, 5559",Aparecida do Rio Negro,TO,1701101
+1725,1725,"Kinglake  Grove, 6598",Lourdes,SP,3527256
+1726,1726,"Dunstans  Grove, 6225",Silvianópolis,MG,3167400
+1727,1727,"Ellerman   Alley, 9355",Panelas,PE,2610202
+1728,1728,"Camera  Route, 1867",Ibirarema,SP,3519501
+1730,1730,"Jackson Vale, 2062",Muniz Freire,ES,3203700
+1732,1732,"Coborn  Road, 4566",São João do Oriente,MG,3162609
+1733,1733,"Dunstans  Crossroad, 5320",Aimorés,MG,3101102
+1734,1734,"Thurloe   Drive, 4087",Cabixi,RO,1100031
+1735,1735,"Bell    Route, 7450",São Bento do Sapucaí,SP,3548609
+1737,1737,"Capeners  Road, 5205",Caturama,BA,2907558
+1738,1738,"Bell    Lane, 5151",Rodelas,BA,2927101
+1739,1739,"Virgil   Street, 7982",Angelândia,MG,3102852
+1740,1740,"Canning  Boulevard, 8125",Massaranduba,PB,2509206
+1741,1741,"Caldwell   Route, 6317",Ajuricaba,RS,4300208
+1742,1742,"Bellenden   Road, 1491",Salto Veloso,SC,4215406
+1743,1743,"Tiptree   Route, 5791",Nhandeara,SP,3532603
+1744,1744,"Cingworth  Tunnel, 642",Inhacorá,RS,4310413
+1745,1745,"Lincoln Tunnel, 4919",Guaraqueçaba,PR,4109500
+1746,1746,"Calshot   Tunnel, 7682",Antônio Carlos,SC,4201208
+1747,1747,"Jackson Walk, 8546",Icaraí de Minas,MG,3130051
+1749,1749,"Thomas  Hill, 9840",Mata Verde,MG,3140555
+1750,1750,"Becklow  Boulevard, 4233",Guapé,MG,3128105
+1751,1751,"Lonsdale  Crossroad, 3834",São Roque de Minas,MG,3164308
+1752,1752,"Chestnut  Drive, 2728",Timbaúba dos Batistas,RN,2414308
+1753,1753,"Becklow  Boulevard, 8334",Capitão de Campos,PI,2202406
+1754,1754,"Littlebury  Boulevard, 898",Sarandi,PR,4126256
+1755,1755,"Aylward   Street, 6144",Santana do Mundaú,AL,2708105
+1756,1756,"Boleyn  Boulevard, 9284",Emilianópolis,SP,3515129
+1757,1757,"Chester      Vale, 339",Baturité,CE,2302107
+1758,1758,"Earl Rise Way, 6682",São Domingos do Prata,MG,3161007
+1759,1759,"Longmoore   Pass, 3868",Rio Doce,MG,3155009
+1760,1760,"Carpenter Street, 2427",Jaboticatubas,MG,3134608
+1761,1761,"Erindale Road, 7682",Itapicuru,BA,2916500
+1762,1762,"Thoresby   Route, 5246",Nova Glória,GO,5214861
+1763,1763,"Dunstable   Boulevard, 2300",Riacho das Almas,PE,2611705
+1764,1764,"Aspen Vale, 3895",Macieira,SC,4210050
+1765,1765,"Virginia Route, 5708",Mazagão,AP,1600402
+1766,1766,"Clissold  Lane, 4754",São José do Inhacorá,RS,4318499
+1767,1767,"Kilner   Tunnel, 6778",Macatuba,SP,3528007
+1768,1768,"Carlisle  Alley, 4814",Reduto,MG,3154150
+1769,1769,"Arlington  Grove, 7787",São Sebastião do Passé,BA,2929503
+1770,1770,"Arlington  Rue, 852",Alto Rio Doce,MG,3102100
+1771,1771,"Ely  Avenue, 1348",Serra do Navio,AP,1600055
+1772,1772,"Sherlock   Alley, 8693",Água Azul do Norte,PA,1500347
+1773,1773,"Angela   Alley, 8970",Santa Cruz do Arari,PA,1506401
+1774,1774,"Cavendish Boulevard, 2163",Mendes,RJ,3302809
+1775,1775,"Thomas More   Lane, 3426",Uruguaiana,RS,4322400
+1776,1776,"Wager   Rue, 3690",Imbé de Minas,MG,3130556
+1779,1779,"Cam  Pass, 8137",Silveiras,SP,3552007
+1780,1780,"Clavell   Drive, 1636",Jaborandi,BA,2917359
+1781,1781,"Queen Walk, 8532",Pitanga,PR,4119608
+1782,1782,"Jackson Lane, 4640",Palma,MG,3146701
+1783,1783,"Clissold  Tunnel, 6689",Conceição do Tocantins,TO,1705607
+1784,1784,"North Avenue, 7964",Cruz,CE,2304251
+1785,1785,"Sundown Grove, 2842",Caldas,MG,3110301
+1786,1786,"Elgood   Vale, 3622",Cerro Azul,PR,4105201
+1787,1787,"Blackwall  Grove, 5047",Brejo Grande do Araguaia,PA,1501758
+1788,1788,"Apollo  Drive, 4111",Riozinho,RS,4315750
+1789,1789,"Chestnut  Street, 6078",São Bernardo,MA,2110609
+1790,1790,"Elba  Alley, 4630",Laurentino,SC,4209508
+1791,1791,"Arbutus   Alley, 508",Peixe,TO,1716604
+1792,1792,"Caldwell   Vale, 3746",Presidente Castelo Branco,PR,4120408
+1793,1793,"Catherine  Hill, 7508",Colatina,ES,3201506
+1794,1794,"Bazely   Boulevard, 2469",Pau D'Arco do Piauí,PI,2207793
+1795,1795,"Comet House  Boulevard, 6281",Aiuaba,CE,2300408
+1796,1796,"Battersea   Boulevard, 5955",Ipixuna do Pará,PA,1503457
+1797,1797,"North Boulevard, 8724",Imperatriz,MA,2105302
+1798,1798,"Bales  Lane, 1019",Moeda,MG,3142304
+1799,1799,"Ayres   Alley, 4777",Equador,RN,2403400
+1800,1800,"Chapel  Street, 8276",Matelândia,PR,4115606
+1801,1801,"Glenwood Street, 1087",Santa Luzia,PB,2513406
+1802,1802,"Bicknell  Tunnel, 1405",Capela de Santana,RS,4304689
+1803,1803,"Canon Alley, 9810",Boa Esperança do Iguaçu,PR,4103024
+1804,1804,"Blean   Hill, 980",Juranda,PR,4112959
+1805,1805,"Bell    Drive, 9516",São Miguel do Gostoso,RN,2412559
+1806,1806,"Lexington Street, 104",Sertânia,PE,2614105
+1807,1807,"Bales  Route, 2053",São Gonçalo do Rio Abaixo,MG,3161908
+1808,1808,"Mariner   Alley, 7092",Pauini,AM,1303502
+1809,1809,"Chestnut  Grove, 183",Quipapá,PE,2611507
+1810,1810,"Thorndike   Street, 8782",Paverama,RS,4314159
+1811,1811,"Cam  Avenue, 9446",Cunha Porã,SC,4204707
+1812,1812,"Baynes  Pass, 8643",Iconha,ES,3202603
+1813,1813,"Bermondsey    Crossroad, 4414",Jandira,SP,3525003
+1815,1815,"Vintners  Route, 7261",Ibicaraí,BA,2912103
+1816,1816,"Arlington  Way, 7312",Mairi,BA,2920106
+1817,1817,"Parkfields Tunnel, 9771",Presidente Venceslau,SP,3541505
+1818,1818,"Sundown Way, 7770",Simolândia,GO,5220686
+1819,1819,"Kinglake  Lane, 7580",Cumari,GO,5206602
+1820,1820,"Unwin  Tunnel, 3412",Santana do Matos,RN,2411403
+1821,1821,"Bedford  Vale, 3658",Rodeio Bonito,RS,4315909
+1822,1822,"Magnolia Crossroad, 5140",Três Lagoas,MS,5008305
+1823,1823,"Beatty  Pass, 8146",Morada Nova de Minas,MG,3143500
+1824,1824,"Camera  Pass, 2201",Novo Santo Antônio,MT,5106315
+1825,1825,"Adams  Alley, 3774",Paula Cândido,MG,3148301
+1826,1826,"Linda   Road, 2233",Nhamundá,AM,1303007
+1827,1827,"Camden  Vale, 8859",Cabeceiras,GO,5204003
+1829,1829,"Camera  Drive, 9880",Lagoa Vermelha,RS,4311304
+1830,1830,"Coley  Drive, 818",São Sebastião do Paraíso,MG,3164704
+1831,1831,"Angela   Route, 2859",Amapá do Maranhão,MA,2100550
+1832,1832,"Belmore  Alley, 7745",Várzea da Palma,MG,3170800
+1833,1833,"Emily  Lane, 3493",Ibirapuitã,RS,4309951
+1834,1834,"Cephas  Route, 9060",Salto do Céu,MT,5107750
+1835,1835,"Dunstans  Vale, 8598",São Francisco,SE,2806909
+1836,1836,"Caedmon  Grove, 7013",Vertentes,PE,2616209
+1838,1838,"South Way, 1171",Itaiçaba,CE,2306207
+1839,1839,"Rivervalley Road, 7325",Carlos Chagas,MG,3113701
+1840,1840,"Dunstans  Road, 3234",Barrolândia,TO,1703107
+1841,1841,"Burton  Crossroad, 2106",Nova Araçá,RS,4312807
+1842,1842,"Caroline  Boulevard, 1766",Coreaú,CE,2304004
+1843,1843,"Parkgate  Street, 1419",Carambeí,PR,4104659
+1844,1844,"Thomas Doyle   Grove, 5779",Sul Brasil,SC,4217758
+1845,1845,"Victoria  Tunnel, 829",Palmeirópolis,TO,1715754
+1846,1846,"Kilner   Crossroad, 4205",Castelândia,GO,5205059
+1847,1847,"Spruce Way, 3978",Carutapera,MA,2102903
+1848,1848,"Arbutus   Tunnel, 7963",Manaus,AM,1302603
+1849,1849,"Underwood  Street, 7952",Mossâmedes,GO,5213905
+1850,1850,"Ben   Lane, 5215",Natércia,MG,3144409
+1851,1851,"Thomas Doyle   Way, 2989",Sousa,PB,2516201
+1852,1852,"Balham   Walk, 3850",Uruburetama,CE,2313807
+1853,1853,"Blean   Rue, 1057",Florestal,MG,3126000
+1854,1854,"Yorkshire  Way, 3423",Nobres,MT,5105903
+1855,1855,"Pine Hill, 1271",Barão de Cotegipe,RS,4301701
+1856,1856,"Bennett  Pass, 4723",Nova Olinda do Norte,AM,1303106
+1857,1857,"Addison  Grove, 4169",Seringueiras,RO,1101500
+1858,1858,"Ayres   Grove, 3556",Icó,CE,2305407
+1859,1859,"Dunsley  Walk, 9923",Jacaré dos Homens,AL,2703403
+1860,1860,"Camberwell  Avenue, 750",Nortelândia,MT,5106000
+1861,1861,"Dyott   Street, 5676",Taquaruçu do Sul,RS,4321329
+1862,1862,"Fawn Avenue, 4730",Colômbia,SP,3512100
+1863,1863,"Betton  Way, 4733",Bom Jardim de Minas,MG,3107505
+1864,1864,"Balfour    Drive, 6477",Matias Barbosa,MG,3140803
+1865,1865,"Bendmore  Street, 3131",Montividiu,GO,5213756
+1866,1866,"Antrobus   Crossroad, 3741",Buritama,SP,3508108
+1867,1867,"Apollo  Boulevard, 4784",Saubara,BA,2929750
+1868,1868,"Under  Alley, 9600",Maravilha,AL,2704609
+1870,1870,"Comet House  Hill, 6276",Guaraciaba,MG,3128204
+1871,1871,"Bellenden  Vale, 7767",Itapagipe,MG,3133402
+1872,1872,"King William  Avenue, 4371",Abel Figueiredo,PA,1500131
+1873,1873,"Fairview Hill, 1237",Dom Inocêncio,PI,2203453
+1875,1875,"Black Swan  Drive, 6832",General Carneiro,PR,4108502
+1876,1876,"Cephas  Hill, 9120",Curral de Cima,PB,2505279
+1877,1877,"Archery  Crossroad, 5688",Valinhos,SP,3556206
+1878,1878,"Jackson Pass, 6993",Pelotas,RS,4314407
+1879,1879,"Biggerstaff   Crossroad, 3364",Taquarivaí,SP,3553856
+1880,1880,"Bacton   Way, 170",Itabira,MG,3131703
+1882,1882,"Apsley    Walk, 5923",Nova Esperança do Sul,RS,4313037
+1883,1883,"Glenwood Route, 8908",Doutor Camargo,PR,4107306
+1884,1884,"Fairbairn  Street, 9490",Paulínia,SP,3536505
+1885,1885,"Lonsdale  Walk, 5666",Muaná,PA,1504901
+1887,1887,"Sheraton   Alley, 5755",Sigefredo Pacheco,PI,2210656
+1888,1888,"Battersea   Pass, 7061",Ouro Preto do Oeste,RO,1100155
+1890,1890,"Tilloch   Alley, 5904",Conselheiro Lafaiete,MG,3118304
+1891,1891,"Blandford  Alley, 7534",Mundo Novo,GO,5214051
+1892,1892,"Baylis  Hill, 9773",Avaí,SP,3504305
+1893,1893,"Clifton  Tunnel, 97",Altinho,PE,2600807
+1894,1894,"Bermondsey    Alley, 3174",Manoel Ribas,PR,4114500
+1895,1895,"Elf  Pass, 5948",Carazinho,RS,4304705
+1896,1896,"Cavaye  Walk, 7665",Honório Serpa,PR,4109658
+1897,1897,"Bennett  Avenue, 1067",Riolândia,SP,3544202
+1898,1898,"Canon Street, 51",Areia,PB,2501104
+1899,1899,"Ernest  Road, 1524",Onda Verde,SP,3534005
+1900,1900,"Arbutus   Lane, 3079",Terra Santa,PA,1507979
+1901,1901,"Wake  Route, 5652",Jaguaribe,CE,2306900
+1903,1903,"Abbotswell  Grove, 6555",São José do Calçado,ES,3204807
+1904,1904,"Fairfield  Way, 5356",Fama,MG,3125200
+1905,1905,"Tiptree   Drive, 2951",Lupércio,SP,3527801
+1906,1906,"Lincoln Walk, 5301",Maripá,PR,4115358
+1907,1907,"Cheney  Rue, 358",Felisburgo,MG,3125606
+1908,1908,"Beaumont  Pass, 6279",Itumirim,MG,3134301
+1909,1909,"Clifton  Route, 2551",Dois Irmãos das Missões,RS,4306429
+1910,1910,"Chester  Street, 756",Anhembi,SP,3502309
+1911,1911,"Chantry   Lane, 3652",Nova Cruz,RN,2408300
+1912,1912,"Castlereagh   Walk, 5656",Luiziana,PR,4113734
+1913,1913,"Cave   Route, 378",Barroso,MG,3105905
+1914,1914,"Camelot   Tunnel, 7011",Monte Alegre de Sergipe,SE,2804201
+1915,1915,"Woodland Tunnel, 1043",Candeias,MG,3112000
+1916,1916,"Lexington Boulevard, 7016",Maribondo,AL,2704807
+1917,1917,"Apsley    Boulevard, 988",Aragarças,GO,5201702
+1918,1918,"Arbutus   Tunnel, 2797",Chalé,MG,3116001
+1919,1919,"Calverley  Drive, 9336",Cumaru,PE,2604908
+1920,1920,"Arundel   Route, 1580",Catu,BA,2907509
+1921,1921,"Battis   Rue, 7402",Teodoro Sampaio,SP,3554300
+1923,1923,"Gavel   Way, 7676",São Jorge do Ivaí,PR,4125308
+1924,1924,"Liverpool  Way, 5370",Juquiá,SP,3526100
+1925,1925,"Camley   Crossroad, 5166",Sapucaia,PA,1507755
+1926,1926,"Eldon  Way, 668",Major Gercino,SC,4210209
+1928,1928,"Bell    Pass, 9243",Lobato,PR,4113601
+1929,1929,"Carnegie   Route, 8685",Dois Vizinhos,PR,4107207
+1930,1930,"Lake Road, 5715",Nossa Senhora de Nazaré,PI,2206753
+1931,1931,"Maple Walk, 3183",Castro Alves,BA,2907301
+1932,1932,"Canon Lane, 3547",Capitão Leônidas Marques,PR,4104600
+1933,1933,"Linda   Hill, 6561",Silvânia,GO,5220603
+1934,1934,"Bekesbourne   Street, 6535",Santana dos Montes,MG,3159100
+1935,1935,"Longleigh   Way, 4925",Bariri,SP,3505203
+1937,1937,"Camdale  Rue, 6558",Jaboticabal,SP,3524303
+1938,1938,"Howard Alley, 9272",Aracoiaba,CE,2301208
+1939,1939,"Tiptree   Road, 3800",Monte Alegre do Sul,SP,3531209
+1940,1940,"Bective  Crossroad, 6013",Marialva,PR,4114807
+1941,1941,"Emily  Street, 9310",Aracaju,SE,2800308
+1942,1942,"Abbots   Pass, 8581",Taiaçu,SP,3553104
+1943,1943,"Burton  Alley, 9947",Praia Grande,SP,3541000
+1944,1944,"Coborn  Way, 2588",Goianápolis,GO,5208400
+1945,1945,"Shepherds  Alley, 4459",Santa Rita,MA,2110203
+1946,1946,"Duthie   Route, 9993",Candeal,BA,2906402
+1947,1947,"Belfort  Avenue, 6274",Leópolis,PR,4113403
+1948,1948,"Coalecroft  Route, 8815",Passo de Torres,SC,4212254
+1950,1950,"Bermondsey    Rue, 4896",Ervália,MG,3124005
+1951,1951,"Belfort  Route, 4255",Breves,PA,1501808
+1952,1952,"Thomas Doyle   Street, 3101",Barra de Santa Rosa,PB,2501609
+1953,1953,"Abbots   Rue, 2593",Bom Sucesso,PR,4103206
+1954,1954,"Blendon    Way, 8648",São José do Barreiro,SP,3549607
+1955,1955,"Sheffield Tunnel, 6157",Brejo da Madre de Deus,PE,2602605
+1956,1956,"Chart   Street, 3399",Senador Modestino Gonçalves,MG,3165909
+1957,1957,"South Vale, 1533",Chapada dos Guimarães,MT,5103007
+1958,1958,"Baltic  Tunnel, 3680",Balneário Gaivota,SC,4202073
+1959,1959,"Elf  Avenue, 4644",Cacoal,RO,1100049
+1960,1960,"Cable    Street, 2074",Vitória do Jari,AP,1600808
+1961,1961,"Ellerman   Rue, 34",Caxambu do Sul,SC,4204103
+1962,1962,"Rivervalley Alley, 5691",Jaguaquara,BA,2917607
+1963,1963,"Enford   Drive, 3431",Canápolis,BA,2906105
+1964,1964,"Belgrave  Tunnel, 444",São Carlos do Ivaí,PR,4124608
+1965,1965,"Cleaver Road, 9419",Serrana,SP,3551504
+1966,1966,"Timothy  Route, 6496",Primavera,PE,2611408
+1967,1967,"Cockspur  Drive, 8499",Matão,SP,3529302
+1968,1968,"Spruce Alley, 5575",São Gonçalo do Amarante,RN,2412005
+1970,1970,"Battis   Grove, 1795",Novo Horizonte,SC,4211652
+1971,1971,"Wadham  Route, 8570",Alvorada,TO,1700707
+1973,1973,"Marischal  Pass, 9392",Cristino Castro,PI,2203107
+1975,1975,"Black Swan  Lane, 9190",Natuba,PB,2509909
+1976,1976,"Bond Lane, 9813",Seabra,BA,2929909
+1977,1977,"Clyde Crossroad, 9612",Tapiraí,MG,3168200
+1978,1978,"Tiptree   Road, 3637",Santana do Ipanema,AL,2708006
+1979,1979,"Chart   Pass, 3245",Nova Nazaré,MT,5106174
+1980,1980,"Hampden  Vale, 1765",Aral Moreira,MS,5001243
+1981,1981,"Blue Anchor  Tunnel, 9747",Laje,BA,2918803
+1982,1982,"Boleyn  Street, 3900",Itaiópolis,SC,4208104
+1983,1983,"King Pass, 4864",Lagoão,RS,4311254
+1984,1984,"Dunstans  Street, 6965",São Sebastião do Rio Preto,MG,3164803
+1985,1985,"Emily  Tunnel, 6263",Joaquim Gomes,AL,2703809
+1986,1986,"Wager   Road, 5130",Rio Branco do Ivaí,PR,4122172
+1987,1987,"Cecilia  Avenue, 6519",Putinga,RS,4315206
+1988,1988,"Collingwood  Alley, 2141",Cosmorama,SP,3512902
+1989,1989,"Anns  Road, 8016",Nova Olinda,PB,2510204
+1990,1990,"Gate   Lane, 9212",Belo Monte,AL,2700904
+1991,1991,"Endsleigh  Vale, 594",Biritinga,BA,2903607
+1992,1992,"Coborn  Lane, 5070",Maceió,AL,2704302
+1993,1993,"Queen Caroline   Walk, 521",Baía da Traição,PB,2501401
+1994,1994,"Longmoore   Tunnel, 2156",Santa Cruz do Sul,RS,4316808
+1995,1995,"Belmont Park Rue, 6855",Pitimbu,PB,2511905
+1996,1996,"Lexington Lane, 8997",Wagner,BA,2933406
+1997,1997,"Bellenden  Hill, 3352",Palmeiras do Tocantins,TO,1713809
+1998,1998,"Battis   Grove, 5936",Potirendaba,SP,3540804
+1999,1999,"Endsleigh  Crossroad, 4837",Tietê,SP,3554508
+2000,2000,"Calshot   Crossroad, 7681",Coronel Barros,RS,4305871
